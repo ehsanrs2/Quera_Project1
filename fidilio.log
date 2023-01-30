@@ -1,0 +1,1112 @@
+2023-01-30 01:54:57,717 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=0]
+2023-01-30 01:54:57,720 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:54:58,069 DEBUG: https://fidilio.com:443 "GET /coffeeshops/in/tehran/?p=0 HTTP/1.1" 200 20888
+2023-01-30 01:54:58,177 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:54:58,978 DEBUG: https://fidilio.com:443 "GET /coffeeshops/melo/%D9%85%D9%84%D9%88/ HTTP/1.1" 200 23452
+2023-01-30 01:54:59,132 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:54:59,133 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:00,500 DEBUG: https://fidilio.com:443 "GET /coffeeshops/honar_cafe/%D9%87%D9%86%D8%B1/ HTTP/1.1" 200 48750
+2023-01-30 01:55:00,783 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:00,784 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:01,291 DEBUG: https://fidilio.com:443 "GET /coffeeshops/shahraan/%DA%A9%D8%A7%D9%81%D9%87-%D8%B1%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%86-%D8%B4%D9%87%D8%B1%D8%A7%D9%86/ HTTP/1.1" 200 21220
+2023-01-30 01:55:01,451 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:01,452 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:02,203 DEBUG: https://fidilio.com:443 "GET /coffeeshops/khanehsaboo/%DA%A9%D8%A7%D9%81%D9%87-%D8%AE%D8%A7%D9%86%D9%87-%D8%B3%D8%A8%D9%88-/ HTTP/1.1" 200 27116
+2023-01-30 01:55:02,308 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:02,309 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:03,064 DEBUG: https://fidilio.com:443 "GET /coffeeshops/baharak/%D8%A8%D9%87%D8%A7%D8%B1%DA%A9--%D8%AF%D8%B3%D8%B1%DA%A9-/ HTTP/1.1" 200 32243
+2023-01-30 01:55:03,166 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:03,167 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:03,823 DEBUG: https://fidilio.com:443 "GET /coffeeshops/letocafe/%D9%84%D8%AA%D9%88%DA%A9%D8%A7%D9%81%D9%87/ HTTP/1.1" 200 43468
+2023-01-30 01:55:04,007 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:04,008 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:04,471 DEBUG: https://fidilio.com:443 "GET /coffeeshops/synod/%D8%B3%DB%8C-%D9%86%D9%88%D8%AF/ HTTP/1.1" 200 34998
+2023-01-30 01:55:04,580 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:04,581 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:05,178 DEBUG: https://fidilio.com:443 "GET /coffeeshops/shaniya/%D8%B4%D8%A7%D9%86%DB%8C%D8%A7/ HTTP/1.1" 200 40437
+2023-01-30 01:55:05,314 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:05,315 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:05,978 DEBUG: https://fidilio.com:443 "GET /coffeeshops/robaee/%D8%B1%D8%A8%D8%A7%D8%B9%DB%8C/ HTTP/1.1" 200 33904
+2023-01-30 01:55:06,089 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:06,090 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:06,727 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafekhamiz/%D8%AE%D8%A7%D9%85%DB%8C%D8%B2/ HTTP/1.1" 200 23973
+2023-01-30 01:55:06,823 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:06,824 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:08,121 DEBUG: https://fidilio.com:443 "GET /coffeeshops/harik/%D9%87%D8%B1%DB%8C%DA%A9/ HTTP/1.1" 200 None
+2023-01-30 01:55:08,424 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:08,425 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:10,029 DEBUG: https://fidilio.com:443 "GET /coffeeshops/darya_baz/%D8%AF%D8%B1%DB%8C%D8%A7-%D8%A8%D8%A7%D8%B2/ HTTP/1.1" 200 54782
+2023-01-30 01:55:10,387 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:10,388 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:11,112 DEBUG: https://fidilio.com:443 "GET /coffeeshops/coffemarket/%DA%A9%D8%A7%D9%81%D9%87-%D9%85%D8%A7%D8%B1%DA%A9%D8%AA/ HTTP/1.1" 200 31086
+2023-01-30 01:55:11,212 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:11,213 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:11,741 DEBUG: https://fidilio.com:443 "GET /coffeeshops/nanjam/%D9%86%D8%A7%D9%86-%D8%AC%D9%85/ HTTP/1.1" 200 47813
+2023-01-30 01:55:11,869 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:11,870 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:12,822 DEBUG: https://fidilio.com:443 "GET /coffeeshops/natur/%D9%86%D8%A7%D8%AA%D9%88%D8%B1/ HTTP/1.1" 200 36782
+2023-01-30 01:55:12,935 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:12,936 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:13,548 DEBUG: https://fidilio.com:443 "GET /coffeeshops/number6/%D9%86%D8%A7%D9%85%D8%A8%D8%B1-6/ HTTP/1.1" 200 48268
+2023-01-30 01:55:13,676 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:13,677 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:14,369 DEBUG: https://fidilio.com:443 "GET /coffeeshops/sweet_angel_pastry/%D8%B3%D9%88%DB%8C%DB%8C%D8%AA-%D8%A2%D9%86%D8%AC%D9%84/ HTTP/1.1" 200 38591
+2023-01-30 01:55:14,480 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:14,481 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:14,981 DEBUG: https://fidilio.com:443 "GET /coffeeshops/royalgalesi/%D8%B1%D9%88%DB%8C%D8%A7%D9%84-%DA%AF%D9%84%DA%A9%D8%B3%DB%8C/ HTTP/1.1" 200 20627
+2023-01-30 01:55:15,072 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:15,074 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:16,120 DEBUG: https://fidilio.com:443 "GET /coffeeshops/idea_cafe/%D8%A7%DB%8C%D8%AF%D9%87-%DA%A9%D9%88%D9%86%D9%81%D9%87/ HTTP/1.1" 200 33131
+2023-01-30 01:55:16,226 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:16,227 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:17,884 DEBUG: https://fidilio.com:443 "GET /coffeeshops/madaeen/%D9%85%D8%AF%D8%A7%D8%A6%D9%86/ HTTP/1.1" 200 53250
+2023-01-30 01:55:18,323 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:18,324 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:19,334 DEBUG: https://fidilio.com:443 "GET /coffeeshops/avrin/%DA%A9%D8%A7%D9%81%D9%87-%D9%88-%D8%B1%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%86-%D9%87%D8%AA%D9%84-%D8%A7%D9%88%D8%B1%DB%8C%D9%86/ HTTP/1.1" 200 49477
+2023-01-30 01:55:19,486 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:19,486 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=1]
+2023-01-30 01:55:19,487 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:19,881 DEBUG: https://fidilio.com:443 "GET /coffeeshops/in/tehran/?p=1 HTTP/1.1" 200 20741
+2023-01-30 01:55:19,987 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:20,922 DEBUG: https://fidilio.com:443 "GET /coffeeshops/belinski/%D8%A8%D9%84%DB%8C%D9%86%D8%B3%DA%A9%DB%8C/ HTTP/1.1" 200 27573
+2023-01-30 01:55:21,045 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:21,046 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:21,556 DEBUG: https://fidilio.com:443 "GET /coffeeshops/barmancafe/%DA%A9%D8%A7%D9%81%D9%87-%D8%B1%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%B1%D9%85%D8%A7%D9%86/ HTTP/1.1" 200 30574
+2023-01-30 01:55:21,661 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:21,662 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:23,118 DEBUG: https://fidilio.com:443 "GET /coffeeshops/beatbistro/%D8%A8%DB%8C%D8%AA-%D8%A8%DB%8C%D8%B3%D8%AA%D8%B1%D9%88/ HTTP/1.1" 200 33026
+2023-01-30 01:55:23,271 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:23,272 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:25,806 DEBUG: https://fidilio.com:443 "GET /coffeeshops/caferack/%D8%B1%D8%A7%DA%A9/ HTTP/1.1" 200 49306
+2023-01-30 01:55:26,161 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:26,162 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:27,554 DEBUG: https://fidilio.com:443 "GET /coffeeshops/sweet-blissniyavaran/%D8%B3%D9%88%DB%8C%DB%8C%D8%AA-%D8%A8%D9%84%DB%8C%D8%B3--%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86-/ HTTP/1.1" 200 None
+2023-01-30 01:55:27,821 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:27,822 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:31,751 DEBUG: https://fidilio.com:443 "GET /coffeeshops/chimney/%DA%86%DB%8C%D9%85%D9%86%DB%8C--%D9%BE%D8%A7%D8%B3%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-/ HTTP/1.1" 200 None
+2023-01-30 01:55:32,436 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:32,437 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:33,482 DEBUG: https://fidilio.com:443 "GET /coffeeshops/shemroon_gharb/%D8%B4%D9%85%D8%B1%D9%88%D9%86--%D8%B4%D9%87%D8%B1%DA%A9-%D8%BA%D8%B1%D8%A8-/ HTTP/1.1" 200 27196
+2023-01-30 01:55:33,591 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:33,592 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:34,347 DEBUG: https://fidilio.com:443 "GET /coffeeshops/golliyancafe/%DA%AF%D9%84-%D9%84%DB%8C%D8%A7%D9%86/ HTTP/1.1" 200 39079
+2023-01-30 01:55:34,487 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:34,488 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:36,092 DEBUG: https://fidilio.com:443 "GET /coffeeshops/bamerey/%D8%A8%D8%A7%D9%85-%D8%B1%DB%8C/ HTTP/1.1" 200 54789
+2023-01-30 01:55:36,419 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:36,420 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:41,432 DEBUG: https://fidilio.com:443 "GET /coffeeshops/avani/%D8%A2%D9%88%D8%A7%D9%86%DB%8C/ HTTP/1.1" 200 None
+2023-01-30 01:55:42,478 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:42,479 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:43,418 DEBUG: https://fidilio.com:443 "GET /coffeeshops/noosheh/%D9%86%D9%88%D8%B4%D9%87/ HTTP/1.1" 200 28055
+2023-01-30 01:55:43,601 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:43,602 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:46,255 DEBUG: https://fidilio.com:443 "GET /coffeeshops/shemroon-baamland/%D8%B4%D9%85%D8%B1%D9%88%D9%86--%D8%A8%D8%A7%D9%85-%D9%84%D9%86%D8%AF-/ HTTP/1.1" 200 None
+2023-01-30 01:55:47,095 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:47,096 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:47,980 DEBUG: https://fidilio.com:443 "GET /coffeeshops/viuna-tajrish/%D9%88%DB%8C%D9%88%D9%86%D8%A7--%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%82%D8%A7%D8%A6%D9%85-/ HTTP/1.1" 200 30375
+2023-01-30 01:55:48,115 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:48,116 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:51,574 DEBUG: https://fidilio.com:443 "GET /coffeeshops/dantecaferestaurant/%D8%AF%D8%A7%D9%86%D8%AA%D9%87/ HTTP/1.1" 200 None
+2023-01-30 01:55:52,118 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:52,120 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:52,996 DEBUG: https://fidilio.com:443 "GET /coffeeshops/almond/%D8%A2%D9%84%D9%85%D9%88%D9%86%D8%AF/ HTTP/1.1" 200 28482
+2023-01-30 01:55:53,138 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:53,139 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:54,383 DEBUG: https://fidilio.com:443 "GET /coffeeshops/parpirar/%D9%BE%D8%A7%D8%B1%D9%BE%DB%8C%D8%B1%D8%A7%D8%B1/ HTTP/1.1" 200 30705
+2023-01-30 01:55:54,618 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:54,619 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:55,826 DEBUG: https://fidilio.com:443 "GET /coffeeshops/ava_plus/%D8%A2%D9%88%D8%A7-%D9%BE%D9%84%D8%A7%D8%B3/ HTTP/1.1" 200 None
+2023-01-30 01:55:56,090 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:56,090 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:55:58,241 DEBUG: https://fidilio.com:443 "GET /coffeeshops/izar/%D8%A7%DB%8C%D8%B2%D8%A7%D8%B1/ HTTP/1.1" 200 36172
+2023-01-30 01:55:58,421 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:55:58,422 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:01,561 DEBUG: https://fidilio.com:443 "GET /coffeeshops/captain_lounge/%DA%A9%D8%A7%D9%BE%DB%8C%D8%AA%D8%A7%D9%86-%D9%84%D8%A7%D9%86%DA%98/ HTTP/1.1" 200 None
+2023-01-30 01:56:02,269 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:02,270 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:03,925 DEBUG: https://fidilio.com:443 "GET /coffeeshops/nattlisohrevardi/%D9%82%D9%86%D8%A7%D8%AF%DB%8C-%D9%86%D8%A7%D8%AA%D9%84%DB%8C-/ HTTP/1.1" 200 59551
+2023-01-30 01:56:04,179 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:04,180 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:07,993 DEBUG: https://fidilio.com:443 "GET /coffeeshops/borito/%D8%A8%D9%88%D8%B1%DB%8C%D8%AA%D9%88/ HTTP/1.1" 200 None
+2023-01-30 01:56:08,810 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:08,810 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=2]
+2023-01-30 01:56:08,811 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:09,211 DEBUG: https://fidilio.com:443 "GET /coffeeshops/in/tehran/?p=2 HTTP/1.1" 200 20464
+2023-01-30 01:56:09,318 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:24,292 DEBUG: https://fidilio.com:443 "GET /coffeeshops/elcafe/%D8%A7%D9%84/ HTTP/1.1" 302 175
+2023-01-30 01:56:24,376 DEBUG: https://fidilio.com:443 "GET /error/500?aspxerrorpath=/coffeeshops/elcafe/%D8%A7%D9%84/ HTTP/1.1" 200 7261
+2023-01-30 01:56:24,386 WARNING: Failed to extract data from city=tehran page=2
+2023-01-30 01:56:24,387 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:25,013 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafe365/%D8%B3%DB%8C%D8%B5%D8%AF-%D9%88-%D8%B4%D8%B5%D8%AA-%D9%88-%D9%BE%D9%86%D8%AC/ HTTP/1.1" 200 20054
+2023-01-30 01:56:25,164 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:25,165 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:25,781 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafe_13/%D8%B3%DB%8C%D8%B2%D8%AF%D9%87/ HTTP/1.1" 200 25954
+2023-01-30 01:56:25,875 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:25,876 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:26,427 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafe_do_hasht/%D8%AF%D9%88-%D9%87%D8%B4%D8%AA/ HTTP/1.1" 200 19988
+2023-01-30 01:56:26,532 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:26,533 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:27,024 DEBUG: https://fidilio.com:443 "GET /coffeeshops/soora_coffee_restaurant/%D8%B3%D9%88%D8%B1%D8%A7/ HTTP/1.1" 200 24349
+2023-01-30 01:56:27,176 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:27,177 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:27,645 DEBUG: https://fidilio.com:443 "GET /coffeeshops/mescafe/%D9%85%D8%B3/ HTTP/1.1" 200 19997
+2023-01-30 01:56:27,767 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:27,768 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:28,314 DEBUG: https://fidilio.com:443 "GET /coffeeshops/clavier/%DA%A9%D9%84%D8%A7%D9%88%DB%8C%D9%87/ HTTP/1.1" 200 21353
+2023-01-30 01:56:28,401 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:28,402 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:29,032 DEBUG: https://fidilio.com:443 "GET /coffeeshops/crescendo/%DA%A9%D8%B1%D8%B3%D9%86%D8%AF%D9%88/ HTTP/1.1" 200 24894
+2023-01-30 01:56:29,137 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:29,138 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:29,629 DEBUG: https://fidilio.com:443 "GET /coffeeshops/tehroonchi/%D8%B7%D9%87%D8%B1%D9%88%D9%86%DA%86%DB%8C/ HTTP/1.1" 200 25524
+2023-01-30 01:56:29,722 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:29,723 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:30,407 DEBUG: https://fidilio.com:443 "GET /coffeeshops/insidecafe/%D8%A7%DB%8C%D9%86%D8%B3%D8%A7%DB%8C%D8%AF/ HTTP/1.1" 200 27603
+2023-01-30 01:56:30,513 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:30,513 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:31,384 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafe_snake/%D8%A7%D8%B3%D9%86%DB%8C%DA%A9/ HTTP/1.1" 200 25284
+2023-01-30 01:56:31,477 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:31,478 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:32,004 DEBUG: https://fidilio.com:443 "GET /coffeeshops/hobo_lounge/%D9%87%D9%88%D8%A8%D9%88-%D9%84%D8%A7%D9%86%DA%98/ HTTP/1.1" 200 24282
+2023-01-30 01:56:32,095 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:32,096 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:33,894 DEBUG: https://fidilio.com:443 "GET /coffeeshops/ariya_restaurant_sonati/%D8%A2%D8%B1%DB%8C%D8%A7/ HTTP/1.1" 200 23667
+2023-01-30 01:56:33,991 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:33,992 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:35,281 DEBUG: https://fidilio.com:443 "GET /coffeeshops/hemera_tehran/%D9%87%D9%85%D8%B1%D8%A7/ HTTP/1.1" 200 20207
+2023-01-30 01:56:35,365 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:35,366 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:35,878 DEBUG: https://fidilio.com:443 "GET /coffeeshops/herma_cafe/%D9%87%D8%B1%D9%85%D8%A7/ HTTP/1.1" 200 24592
+2023-01-30 01:56:36,036 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:36,037 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:37,081 DEBUG: https://fidilio.com:443 "GET /coffeeshops/levicafe/%D9%84%D9%90%D9%88%DB%8C/ HTTP/1.1" 200 27028
+2023-01-30 01:56:37,192 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:37,193 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:37,705 DEBUG: https://fidilio.com:443 "GET /coffeeshops/emaratehoor/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA-%D8%AD%D9%88%D8%B1/ HTTP/1.1" 200 25009
+2023-01-30 01:56:37,805 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:37,806 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:38,548 DEBUG: https://fidilio.com:443 "GET /coffeeshops/open_mindcafe/%D8%B1%D9%88%D8%B4%D9%86-%D9%81%DA%A9%D8%B1/ HTTP/1.1" 200 27214
+2023-01-30 01:56:38,644 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:38,645 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:39,232 DEBUG: https://fidilio.com:443 "GET /coffeeshops/niki_caferestaurant/%D9%86%DB%8C%DA%A9%DB%8C/ HTTP/1.1" 200 27394
+2023-01-30 01:56:39,349 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:39,350 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:40,038 DEBUG: https://fidilio.com:443 "GET /coffeeshops/maronbar/%D9%85%D8%A7%D8%B1%D9%88%D9%86-%D8%A8%D8%A7%D8%B1/ HTTP/1.1" 200 23992
+2023-01-30 01:56:40,131 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:40,132 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:41,141 DEBUG: https://fidilio.com:443 "GET /coffeeshops/mashacafe_evinhotel/%D9%85%D8%A7%D8%B4%D8%A7/ HTTP/1.1" 200 27391
+2023-01-30 01:56:41,243 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:41,243 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=3]
+2023-01-30 01:56:41,244 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:41,635 DEBUG: https://fidilio.com:443 "GET /coffeeshops/in/tehran/?p=3 HTTP/1.1" 200 20565
+2023-01-30 01:56:41,741 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:42,780 DEBUG: https://fidilio.com:443 "GET /coffeeshops/odessa/%D8%A7%D9%88%D8%AF%D8%B3%D8%A7/ HTTP/1.1" 200 26786
+2023-01-30 01:56:42,876 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:42,878 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:43,521 DEBUG: https://fidilio.com:443 "GET /coffeeshops/dolitcafe/%D8%AF%D9%84%DB%8C%D8%AA/ HTTP/1.1" 200 24783
+2023-01-30 01:56:43,621 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:43,622 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:44,897 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafemostaghel/%D9%85%D8%B3%D8%AA%D9%82%D9%84/ HTTP/1.1" 200 25450
+2023-01-30 01:56:44,989 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:44,990 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:56:46,552 DEBUG: https://fidilio.com:443 "GET /coffeeshops/roseofpersia/%D8%B1%D8%B2-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C/ HTTP/1.1" 200 26398
+2023-01-30 01:56:46,647 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:56:46,648 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:01,902 DEBUG: https://fidilio.com:443 "GET /coffeeshops/harmonyy_cafe/%D9%87%D8%A7%D8%B1%D9%85%D9%88%D9%86%DB%8C/ HTTP/1.1" 302 212
+2023-01-30 01:57:01,987 DEBUG: https://fidilio.com:443 "GET /error/500?aspxerrorpath=/coffeeshops/harmonyy_cafe/%D9%87%D8%A7%D8%B1%D9%85%D9%88%D9%86%DB%8C/ HTTP/1.1" 200 7282
+2023-01-30 01:57:01,997 WARNING: Failed to extract data from city=tehran page=3
+2023-01-30 01:57:01,997 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:03,129 DEBUG: https://fidilio.com:443 "GET /coffeeshops/bell/%D8%A8%D9%84/ HTTP/1.1" 200 19955
+2023-01-30 01:57:03,261 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:03,261 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:03,769 DEBUG: https://fidilio.com:443 "GET /coffeeshops/coffeemarat7hoz/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA-%D8%AA%D8%B1%D8%A7%D8%B3/ HTTP/1.1" 200 20076
+2023-01-30 01:57:03,862 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:03,862 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:04,659 DEBUG: https://fidilio.com:443 "GET /coffeeshops/alenda/%D8%A2%D9%84%D9%86%D8%AF%D8%A7/ HTTP/1.1" 200 26586
+2023-01-30 01:57:04,759 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:04,760 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:05,291 DEBUG: https://fidilio.com:443 "GET /coffeeshops/nobu_tehran/%D9%86%D9%88%D8%A8%D9%88/ HTTP/1.1" 200 27483
+2023-01-30 01:57:05,390 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:05,391 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:05,948 DEBUG: https://fidilio.com:443 "GET /coffeeshops/grossi_restaurant/%DA%AF%D8%B1%D9%88%D8%B3%DB%8C/ HTTP/1.1" 200 26552
+2023-01-30 01:57:06,121 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:06,122 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:06,987 DEBUG: https://fidilio.com:443 "GET /coffeeshops/fisherabadcoffee/%D9%81%DB%8C%D8%B4%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF/ HTTP/1.1" 200 23655
+2023-01-30 01:57:07,164 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:07,166 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:22,827 DEBUG: https://fidilio.com:443 "GET /coffeeshops/pinkflower/%DA%AF%D9%84-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C/ HTTP/1.1" 302 210
+2023-01-30 01:57:22,991 DEBUG: https://fidilio.com:443 "GET /error/500?aspxerrorpath=/coffeeshops/pinkflower/%DA%AF%D9%84-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C/ HTTP/1.1" 200 7277
+2023-01-30 01:57:23,002 WARNING: Failed to extract data from city=tehran page=3
+2023-01-30 01:57:23,003 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:23,767 DEBUG: https://fidilio.com:443 "GET /coffeeshops/rota_lounge/%D8%B1%D9%88%D8%AA%D8%A7-%D9%84%D8%A7%D9%86%DA%98/ HTTP/1.1" 200 30579
+2023-01-30 01:57:23,882 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:23,883 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:24,557 DEBUG: https://fidilio.com:443 "GET /coffeeshops/rhinocafeclub/%D8%B1%D8%A7%DB%8C%D9%86%D9%88--%D9%87%D9%81%D8%AA-%D8%AA%DB%8C%D8%B1-/ HTTP/1.1" 200 25784
+2023-01-30 01:57:24,730 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:24,731 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:26,203 DEBUG: https://fidilio.com:443 "GET /coffeeshops/ronak_gardencafe/%D8%B1%D9%88%D9%86%D8%A7%DA%A9-%DA%AF%D8%A7%D8%B1%D8%AF%D9%86/ HTTP/1.1" 200 24275
+2023-01-30 01:57:26,743 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:26,744 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:27,403 DEBUG: https://fidilio.com:443 "GET /coffeeshops/prisca_cafe_restaurant/%D9%BE%D8%B1%DB%8C%D8%B3%DA%A9%D8%A7/ HTTP/1.1" 200 23970
+2023-01-30 01:57:27,510 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:27,511 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:28,916 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafe_beynolmelal/%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84/ HTTP/1.1" 200 23079
+2023-01-30 01:57:29,074 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:29,074 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:29,979 DEBUG: https://fidilio.com:443 "GET /coffeeshops/odette_cafe/%D8%A7%D9%8F%D8%AF%D8%AA/ HTTP/1.1" 200 24071
+2023-01-30 01:57:30,069 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:30,070 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:30,608 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cozylounge/%DA%A9%D9%88%D8%B2%DB%8C-%D9%84%D8%A7%D9%86%DA%98/ HTTP/1.1" 200 24162
+2023-01-30 01:57:30,811 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:30,812 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:31,822 DEBUG: https://fidilio.com:443 "GET /coffeeshops/baccara_cafe/%D8%A8%D8%A7%DA%A9%D8%A7%D8%B1%D8%A7--%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1-/ HTTP/1.1" 200 27309
+2023-01-30 01:57:32,082 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:32,083 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:33,016 DEBUG: https://fidilio.com:443 "GET /coffeeshops/fidar/%D9%81%DB%8C%D8%AF%D8%A7%D8%B1/ HTTP/1.1" 200 20110
+2023-01-30 01:57:33,097 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:33,097 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=4]
+2023-01-30 01:57:33,098 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:33,441 DEBUG: https://fidilio.com:443 "GET /coffeeshops/in/tehran/?p=4 HTTP/1.1" 200 20694
+2023-01-30 01:57:33,538 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:34,005 DEBUG: https://fidilio.com:443 "GET /coffeeshops/baraz/%D8%A8%D8%A7%D8%B1%D8%A7%D8%B2/ HTTP/1.1" 200 20017
+2023-01-30 01:57:34,090 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:34,091 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:34,709 DEBUG: https://fidilio.com:443 "GET /coffeeshops/sesenik/%D8%B3%D8%B3%D9%86%DB%8C%DA%A9/ HTTP/1.1" 200 19859
+2023-01-30 01:57:34,872 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:34,873 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:35,660 DEBUG: https://fidilio.com:443 "GET /coffeeshops/bonak_cafe/%D8%A8%D9%86%D8%A7%DA%A9/ HTTP/1.1" 200 27580
+2023-01-30 01:57:35,757 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:35,758 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:36,334 DEBUG: https://fidilio.com:443 "GET /coffeeshops/garas/%D8%A8%DB%8C%DA%A9%D8%B1%DB%8C-%DA%AF%D8%B1%D8%A7%D8%B3/ HTTP/1.1" 200 23957
+2023-01-30 01:57:36,426 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:36,426 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:37,357 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafe_clavier/%DA%A9%D9%84%D8%A7%D9%88%DB%8C%D9%87/ HTTP/1.1" 200 19909
+2023-01-30 01:57:37,464 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:37,465 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:37,925 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafe_darbar/%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1/ HTTP/1.1" 200 19843
+2023-01-30 01:57:38,009 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:38,010 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:39,299 DEBUG: https://fidilio.com:443 "GET /coffeeshops/routinecoffee/%D9%82%D9%87%D9%88%D9%87-%D8%B1%D9%88%D8%AA%DB%8C%D9%86/ HTTP/1.1" 200 19942
+2023-01-30 01:57:39,380 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:39,381 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:42,921 DEBUG: https://fidilio.com:443 "GET /coffeeshops/look_cafe/%D9%84%D9%88%DA%A9/ HTTP/1.1" 200 20152
+2023-01-30 01:57:42,965 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:42,966 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:43,676 DEBUG: https://fidilio.com:443 "GET /coffeeshops/jiliz_viliz_romi/%D8%AC%DB%8C%D9%84%DB%8C%D8%B2-%D9%88%DB%8C%D9%84%DB%8C%D8%B2--%D9%BE%D9%84-%D8%B1%D9%88%D9%85%DB%8C-/ HTTP/1.1" 200 23886
+2023-01-30 01:57:43,768 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:43,769 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:44,274 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafekonj/%DA%A9%D9%86%D8%AC/ HTTP/1.1" 200 19952
+2023-01-30 01:57:44,363 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:44,364 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:45,109 DEBUG: https://fidilio.com:443 "GET /coffeeshops/lounge12/%D9%84%D8%A7%D9%86%DA%98-12/ HTTP/1.1" 200 23312
+2023-01-30 01:57:45,273 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:45,274 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:45,794 DEBUG: https://fidilio.com:443 "GET /coffeeshops/maktabe_ghahve/%D9%85%DA%A9%D8%AA%D8%A8-%D9%82%D9%87%D9%88%D9%87/ HTTP/1.1" 200 26427
+2023-01-30 01:57:45,951 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:45,952 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:57:46,541 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafe_karbon/%DA%A9%D8%A7%D8%B1%D8%A8%D9%86/ HTTP/1.1" 200 24831
+2023-01-30 01:57:46,644 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:57:46,644 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:58:01,608 DEBUG: https://fidilio.com:443 "GET /coffeeshops/luna_cafe/%D9%84%D9%88%D9%86%D8%A7/ HTTP/1.1" 302 190
+2023-01-30 01:58:01,692 DEBUG: https://fidilio.com:443 "GET /error/500?aspxerrorpath=/coffeeshops/luna_cafe/%D9%84%D9%88%D9%86%D8%A7/ HTTP/1.1" 200 7272
+2023-01-30 01:58:01,702 WARNING: Failed to extract data from city=tehran page=4
+2023-01-30 01:58:01,702 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:58:02,696 DEBUG: https://fidilio.com:443 "GET /coffeeshops/zeehouse/%D8%B2%DB%8C/ HTTP/1.1" 200 27022
+2023-01-30 01:58:02,811 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:58:02,811 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:58:03,265 DEBUG: https://fidilio.com:443 "GET /coffeeshops/braftto/%D8%A8%D8%B1%D8%A7%D9%81%D8%AA%D9%88/ HTTP/1.1" 200 22098
+2023-01-30 01:58:03,355 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:58:03,356 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:58:04,003 DEBUG: https://fidilio.com:443 "GET /coffeeshops/lidopluss/%D9%84%DB%8C%D8%AF%D9%88-%D9%BE%D9%84%D8%A7%D8%B3/ HTTP/1.1" 200 24822
+2023-01-30 01:58:04,106 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:58:04,107 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:58:05,283 DEBUG: https://fidilio.com:443 "GET /coffeeshops/wantedfastfood/%D9%88%D8%A7%D9%86%D8%AA%D8%AF/ HTTP/1.1" 200 23187
+2023-01-30 01:58:05,373 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:58:05,374 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:58:05,842 DEBUG: https://fidilio.com:443 "GET /coffeeshops/zhiner_plus/%DA%98%DB%8C%D9%86%D8%B1%D9%BE%D9%84%D8%A7%D8%B3/ HTTP/1.1" 200 27139
+2023-01-30 01:58:05,949 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:58:05,950 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:58:06,403 DEBUG: https://fidilio.com:443 "GET /coffeeshops/loutra/%D9%84%D9%88%D8%AA%D8%B1%D8%A7/ HTTP/1.1" 200 23086
+2023-01-30 01:58:06,493 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:58:06,494 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:58:07,233 DEBUG: https://fidilio.com:443 "GET /coffeeshops/52hz_cafe/%D9%BE%D9%86%D8%AC%D8%A7%D9%87-%D9%88-%D8%AF%D9%88-%D9%87%D8%B1%D8%AA%D8%B2/ HTTP/1.1" 200 27193
+2023-01-30 01:58:07,349 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:58:07,349 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=5]
+2023-01-30 01:58:07,350 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:58:07,706 DEBUG: https://fidilio.com:443 "GET /coffeeshops/in/tehran/?p=5 HTTP/1.1" 200 20600
+2023-01-30 01:58:07,801 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:58:23,008 DEBUG: https://fidilio.com:443 "GET /coffeeshops/theyarcafe/%D8%AF%DB%8C%D8%A7%D8%B1/ HTTP/1.1" 302 191
+2023-01-30 01:58:23,090 DEBUG: https://fidilio.com:443 "GET /error/500?aspxerrorpath=/coffeeshops/theyarcafe/%D8%AF%DB%8C%D8%A7%D8%B1/ HTTP/1.1" 200 7267
+2023-01-30 01:58:23,101 WARNING: Failed to extract data from city=tehran page=5
+2023-01-30 01:58:23,102 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:58:24,219 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafe_bavar/%D8%A8%D8%A7%D9%88%D8%B1/ HTTP/1.1" 200 23460
+2023-01-30 01:58:24,314 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:58:24,315 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:58:24,930 DEBUG: https://fidilio.com:443 "GET /coffeeshops/diversolounge/%D8%AF%DB%8C%D9%88%D8%B1%D8%B3%D9%88/ HTTP/1.1" 200 23045
+2023-01-30 01:58:25,041 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:58:25,042 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:58:25,872 DEBUG: https://fidilio.com:443 "GET /coffeeshops/interni_gharb/%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%DB%8C--%D8%B4%D9%87%D8%B1%DA%A9-%D8%BA%D8%B1%D8%A8-/ HTTP/1.1" 200 21511
+2023-01-30 01:58:25,979 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:58:25,980 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:58:26,782 DEBUG: https://fidilio.com:443 "GET /coffeeshops/deer_factory/%D8%AF%DB%8C%DB%8C%D8%B1-%D9%81%DA%A9%D8%AA%D9%88%D8%B1%DB%8C/ HTTP/1.1" 200 19967
+2023-01-30 01:58:26,912 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:58:26,913 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:58:27,390 DEBUG: https://fidilio.com:443 "GET /coffeeshops/blackbox_artcenter/%D8%A8%D9%84%DA%A9-%D8%A8%D8%A7%DA%A9%D8%B3/ HTTP/1.1" 200 26269
+2023-01-30 01:58:27,568 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:58:27,569 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:58:28,041 DEBUG: https://fidilio.com:443 "GET /coffeeshops/delin_cafe/%D8%AF%D9%84%DB%8C%D9%86/ HTTP/1.1" 200 20126
+2023-01-30 01:58:28,134 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:58:28,135 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:58:43,523 DEBUG: https://fidilio.com:443 "GET /coffeeshops/coffee_come/%D8%AF%D8%A7%D8%AA-%DA%A9%D8%A7%D9%85/ HTTP/1.1" 302 205
+2023-01-30 01:58:43,608 DEBUG: https://fidilio.com:443 "GET /error/500?aspxerrorpath=/coffeeshops/coffee_come/%D8%AF%D8%A7%D8%AA-%DA%A9%D8%A7%D9%85/ HTTP/1.1" 200 7270
+2023-01-30 01:58:43,618 WARNING: Failed to extract data from city=tehran page=5
+2023-01-30 01:58:43,619 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:58:45,219 DEBUG: https://fidilio.com:443 "GET /coffeeshops/laminerlounge/%D9%84%D8%A7%D9%85%DB%8C%D9%86%D8%B1-%D9%84%D8%A7%D9%86%DA%98/ HTTP/1.1" 200 23802
+2023-01-30 01:58:45,314 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:58:45,316 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:58:45,868 DEBUG: https://fidilio.com:443 "GET /coffeeshops/riva_platin/%D8%B1%DB%8C%D9%88%D8%A7/ HTTP/1.1" 200 20057
+2023-01-30 01:58:45,954 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:58:45,955 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:58:46,581 DEBUG: https://fidilio.com:443 "GET /coffeeshops/emcafe/%D8%A7%D9%85/ HTTP/1.1" 200 19977
+2023-01-30 01:58:46,665 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:58:46,666 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:59:01,822 DEBUG: https://fidilio.com:443 "GET /coffeeshops/eran_cafe/%D8%A7%D9%90%D8%B1%D8%A7%D9%86/ HTTP/1.1" 302 196
+2023-01-30 01:59:01,903 DEBUG: https://fidilio.com:443 "GET /error/500?aspxerrorpath=/coffeeshops/eran_cafe/%D8%A7%D9%90%D8%B1%D8%A7%D9%86/ HTTP/1.1" 200 7259
+2023-01-30 01:59:01,916 WARNING: Failed to extract data from city=tehran page=5
+2023-01-30 01:59:01,917 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:59:03,003 DEBUG: https://fidilio.com:443 "GET /coffeeshops/locadonut_niavaran/%D9%84%D9%88%DA%A9%D8%A7%D8%AF%D9%88%D9%86%D8%A7%D8%AA--%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86-/ HTTP/1.1" 200 23995
+2023-01-30 01:59:03,103 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:59:03,104 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:59:03,948 DEBUG: https://fidilio.com:443 "GET /coffeeshops/locadonut_fereshteh/%D9%84%D9%88%DA%A9%D8%A7%D8%AF%D9%88%D9%86%D8%A7%D8%AA--%D9%81%D8%B1%D8%B4%D8%AA%D9%87-/ HTTP/1.1" 200 25515
+2023-01-30 01:59:04,040 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:59:04,041 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:59:05,756 DEBUG: https://fidilio.com:443 "GET /coffeeshops/locadonut_saadatabad/%D9%84%D9%88%DA%A9%D8%A7%D8%AF%D9%88%D9%86%D8%A7%D8%AA--%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF-/ HTTP/1.1" 200 24183
+2023-01-30 01:59:05,854 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:59:05,855 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:59:06,548 DEBUG: https://fidilio.com:443 "GET /coffeeshops/kohenor/%DA%A9%D9%88%D9%87-%D9%86%D9%88%D8%B1/ HTTP/1.1" 200 27293
+2023-01-30 01:59:06,647 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:59:06,648 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:59:07,470 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafevalhalla/%D9%88%D8%A7%D9%84%D9%87%D8%A7%D9%84%D8%A7/ HTTP/1.1" 200 22778
+2023-01-30 01:59:07,559 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:59:07,560 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:59:23,057 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafekamak_pasdaran/%DA%A9%D8%A7%D9%85%DA%A9--%D9%BE%D8%A7%D8%B3%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-/ HTTP/1.1" 302 250
+2023-01-30 01:59:23,143 DEBUG: https://fidilio.com:443 "GET /error/500?aspxerrorpath=/coffeeshops/cafekamak_pasdaran/%DA%A9%D8%A7%D9%85%DA%A9--%D9%BE%D8%A7%D8%B3%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-/ HTTP/1.1" 200 7296
+2023-01-30 01:59:23,152 WARNING: Failed to extract data from city=tehran page=5
+2023-01-30 01:59:23,154 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:59:38,093 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafekamak/%DA%A9%D8%A7%D9%85%DA%A9--%DB%8C%D9%88%D8%B3%D9%81-%D8%A2%D8%A8%D8%A7%D8%AF-/ HTTP/1.1" 302 242
+2023-01-30 01:59:38,185 DEBUG: https://fidilio.com:443 "GET /error/500?aspxerrorpath=/coffeeshops/cafekamak/%DA%A9%D8%A7%D9%85%DA%A9--%DB%8C%D9%88%D8%B3%D9%81-%D8%A2%D8%A8%D8%A7%D8%AF-/ HTTP/1.1" 200 7293
+2023-01-30 01:59:38,197 WARNING: Failed to extract data from city=tehran page=5
+2023-01-30 01:59:38,198 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:59:38,665 DEBUG: https://fidilio.com:443 "GET /coffeeshops/ghahve_khan/%D9%82%D9%87%D9%88%D9%87-%D8%AE%D8%A7%D9%86/ HTTP/1.1" 200 25378
+2023-01-30 01:59:38,766 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:59:38,766 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:59:39,205 DEBUG: https://fidilio.com:443 "GET /coffeeshops/lidocafe/%D9%84%DB%8C%D8%AF%D9%88--%D8%A7%D8%B2%DA%AF%D9%84-/ HTTP/1.1" 302 216
+2023-01-30 01:59:39,288 DEBUG: https://fidilio.com:443 "GET /error/500?aspxerrorpath=/coffeeshops/lidocafe/%D9%84%DB%8C%D8%AF%D9%88--%D8%A7%D8%B2%DA%AF%D9%84-/ HTTP/1.1" 200 7285
+2023-01-30 01:59:39,299 WARNING: Failed to extract data from city=tehran page=5
+2023-01-30 01:59:39,299 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=6]
+2023-01-30 01:59:39,300 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:59:39,655 DEBUG: https://fidilio.com:443 "GET /coffeeshops/in/tehran/?p=6 HTTP/1.1" 200 20558
+2023-01-30 01:59:39,752 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:59:40,223 DEBUG: https://fidilio.com:443 "GET /coffeeshops/shaghayegh_cafe/%D8%B4%D9%82%D8%A7%DB%8C%D9%82/ HTTP/1.1" 200 19870
+2023-01-30 01:59:40,312 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:59:40,313 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:59:40,874 DEBUG: https://fidilio.com:443 "GET /coffeeshops/lavender_fereshteh/%D9%84%D9%88%D9%86%D8%AF%D8%B1--%D9%81%D8%B1%D8%B4%D8%AA%D9%87-/ HTTP/1.1" 200 26961
+2023-01-30 01:59:41,032 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:59:41,033 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:59:41,731 DEBUG: https://fidilio.com:443 "GET /coffeeshops/film_classic/%D9%81%DB%8C%D9%84%D9%85-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9/ HTTP/1.1" 200 32593
+2023-01-30 01:59:41,927 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:59:41,928 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:59:42,598 DEBUG: https://fidilio.com:443 "GET /coffeeshops/raman_farahzadi/%D8%B1%D8%A7%D9%85%D8%A7%D9%86/ HTTP/1.1" 200 20142
+2023-01-30 01:59:42,681 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:59:42,682 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:59:43,170 DEBUG: https://fidilio.com:443 "GET /coffeeshops/ruchik/%D8%B1%D9%88%DA%86%DB%8C%DA%A9/ HTTP/1.1" 200 23470
+2023-01-30 01:59:43,326 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:59:43,327 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:59:58,796 DEBUG: https://fidilio.com:443 "GET /coffeeshops/hakubuffet/%D8%A8%D9%88%D9%81%D9%87-%D9%87%D8%A7%DA%A9%D9%88/ HTTP/1.1" 302 216
+2023-01-30 01:59:58,879 DEBUG: https://fidilio.com:443 "GET /error/500?aspxerrorpath=/coffeeshops/hakubuffet/%D8%A8%D9%88%D9%81%D9%87-%D9%87%D8%A7%DA%A9%D9%88/ HTTP/1.1" 200 7283
+2023-01-30 01:59:58,889 WARNING: Failed to extract data from city=tehran page=6
+2023-01-30 01:59:58,890 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 01:59:59,378 DEBUG: https://fidilio.com:443 "GET /coffeeshops/home_alborz/%D8%AE%D9%88%D9%86%D9%87-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2/ HTTP/1.1" 200 25021
+2023-01-30 01:59:59,478 INFO: city={city} page={number} scraped successfully.
+2023-01-30 01:59:59,479 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:00,091 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafehaft7/%D9%87%D9%81%D8%AA--%D9%87%D9%81%D8%AA-%D8%AA%DB%8C%D8%B1-/ HTTP/1.1" 200 23720
+2023-01-30 02:00:00,306 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:00,307 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:00,783 DEBUG: https://fidilio.com:443 "GET /coffeeshops/shebrocafe/%D8%B4%D8%A8%D8%B1%D9%88/ HTTP/1.1" 200 23345
+2023-01-30 02:00:00,871 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:00,872 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:01,408 DEBUG: https://fidilio.com:443 "GET /coffeeshops/brunchetto/%D8%A8%D8%B1%D8%A7%D9%86%DA%86-%D8%AA%D9%88/ HTTP/1.1" 200 19989
+2023-01-30 02:00:01,494 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:01,495 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:01,973 DEBUG: https://fidilio.com:443 "GET /coffeeshops/barsincoffee/%D8%A8%D8%B1%D8%B3%DB%8C%D9%86/ HTTP/1.1" 200 19968
+2023-01-30 02:00:02,055 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:02,056 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:02,572 DEBUG: https://fidilio.com:443 "GET /coffeeshops/adisheh_lounge1/%D8%A2%D8%AF%DB%8C%D8%B4%D9%87-%D9%84%D8%A7%D9%86%DA%98/ HTTP/1.1" 200 25429
+2023-01-30 02:00:02,667 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:02,668 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:03,158 DEBUG: https://fidilio.com:443 "GET /coffeeshops/golzar_cafe/%DA%AF%D9%84%D8%B2%D8%A7%D8%B1/ HTTP/1.1" 200 23832
+2023-01-30 02:00:03,254 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:03,255 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:03,964 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafe_chaai/%DA%86%D8%A7%DB%8C--%D9%87%D9%81%D8%AA-%D8%AA%DB%8C%D8%B1-/ HTTP/1.1" 200 28667
+2023-01-30 02:00:04,090 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:04,091 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:04,631 DEBUG: https://fidilio.com:443 "GET /coffeeshops/avli/%D8%A2%D9%88%D9%84%DB%8C/ HTTP/1.1" 200 19877
+2023-01-30 02:00:04,722 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:04,723 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:05,156 DEBUG: https://fidilio.com:443 "GET /coffeeshops/loafboxbakery/%D9%84%D9%88%D9%81-%D8%A8%D8%A7%DA%A9%D8%B3/ HTTP/1.1" 200 20040
+2023-01-30 02:00:05,240 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:05,241 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:05,841 DEBUG: https://fidilio.com:443 "GET /coffeeshops/meri/%D9%85%D8%B1%DB%8C/ HTTP/1.1" 200 25353
+2023-01-30 02:00:05,940 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:05,941 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:06,418 DEBUG: https://fidilio.com:443 "GET /coffeeshops/blucasa2/%D8%A8%D9%84%D9%88%DA%A9%D8%A7%D8%B2%D8%A7--%D8%B4%D9%85%D8%B3-%D8%A2%D8%A8%D8%A7%D8%AF-/ HTTP/1.1" 200 29840
+2023-01-30 02:00:06,517 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:06,518 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:07,075 DEBUG: https://fidilio.com:443 "GET /coffeeshops/blucasa3/%D8%A8%D9%84%D9%88%DA%A9%D8%A7%D8%B2%D8%A7--%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87-/ HTTP/1.1" 200 26855
+2023-01-30 02:00:07,170 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:07,170 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:07,657 DEBUG: https://fidilio.com:443 "GET /coffeeshops/yankee/%DB%8C%D8%A7%D9%86%DA%A9%DB%8C/ HTTP/1.1" 200 24058
+2023-01-30 02:00:07,748 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:07,749 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:08,233 DEBUG: https://fidilio.com:443 "GET /coffeeshops/c2/%D8%B3%DB%8C%D8%AA%D9%88/ HTTP/1.1" 200 25048
+2023-01-30 02:00:08,326 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:08,326 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=7]
+2023-01-30 02:00:08,327 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:08,679 DEBUG: https://fidilio.com:443 "GET /coffeeshops/in/tehran/?p=7 HTTP/1.1" 200 20534
+2023-01-30 02:00:08,783 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:09,268 DEBUG: https://fidilio.com:443 "GET /coffeeshops/hezarafsan/%D8%AD%DB%8C%D8%A7%D8%AA-%D9%87%D8%B2%D8%A7%D8%B1-%D8%A7%D9%81%D8%B3%D8%A7%D9%86/ HTTP/1.1" 200 22655
+2023-01-30 02:00:09,360 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:09,361 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:09,807 DEBUG: https://fidilio.com:443 "GET /coffeeshops/philosophique/%D9%81%D9%84%D8%B3%D9%81%D9%87/ HTTP/1.1" 200 23439
+2023-01-30 02:00:09,896 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:09,897 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:10,365 DEBUG: https://fidilio.com:443 "GET /coffeeshops/prologue_cafe/%D9%BE%D8%B1%D9%88%D9%84%D9%88%DA%AF/ HTTP/1.1" 200 19999
+2023-01-30 02:00:10,453 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:10,454 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:10,932 DEBUG: https://fidilio.com:443 "GET /coffeeshops/the_d_project_cafe/%D9%BE%D8%B1%D9%88%DA%98%D9%87--%D8%AF-/ HTTP/1.1" 200 19829
+2023-01-30 02:00:11,013 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:11,014 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:11,782 DEBUG: https://fidilio.com:443 "GET /coffeeshops/lavielounge/%D9%84%D9%88%DB%8C-%D9%84%D8%A7%D9%86%DA%98/ HTTP/1.1" 200 23808
+2023-01-30 02:00:11,873 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:11,874 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:27,057 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafe_zhivan/%DA%98%DB%8C%D9%88%D8%A7%D9%86/ HTTP/1.1" 302 198
+2023-01-30 02:00:27,147 DEBUG: https://fidilio.com:443 "GET /error/500?aspxerrorpath=/coffeeshops/cafe_zhivan/%DA%98%DB%8C%D9%88%D8%A7%D9%86/ HTTP/1.1" 200 7266
+2023-01-30 02:00:27,158 WARNING: Failed to extract data from city=tehran page=7
+2023-01-30 02:00:27,159 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:27,799 DEBUG: https://fidilio.com:443 "GET /coffeeshops/gravity/%DA%AF%D8%B1%D9%88%DB%8C%D8%AA%DB%8C/ HTTP/1.1" 200 26558
+2023-01-30 02:00:27,934 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:27,935 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:28,516 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafe_ashkboos/%D8%A7%D8%B4%DA%A9%D8%A8%D9%88%D8%B3/ HTTP/1.1" 200 24990
+2023-01-30 02:00:28,627 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:28,628 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:29,284 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafe_puzzle/%D9%BE%D8%A7%D8%B2%D9%84/ HTTP/1.1" 200 27297
+2023-01-30 02:00:29,383 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:29,383 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:30,362 DEBUG: https://fidilio.com:443 "GET /coffeeshops/rolexlounge/%D8%B1%D9%88%D9%84%DA%A9%D8%B3-%D9%84%D8%A7%D9%86%DA%98/ HTTP/1.1" 200 26944
+2023-01-30 02:00:30,472 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:30,473 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:31,028 DEBUG: https://fidilio.com:443 "GET /coffeeshops/celato/%DA%A9%D9%84%D8%A7%D8%AA%D9%88/ HTTP/1.1" 200 22443
+2023-01-30 02:00:31,134 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:31,135 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:31,700 DEBUG: https://fidilio.com:443 "GET /coffeeshops/chakmozniavaran/%DA%86%DA%A9-%D9%85%D9%88%D8%B2/ HTTP/1.1" 200 20729
+2023-01-30 02:00:31,785 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:31,786 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:32,390 DEBUG: https://fidilio.com:443 "GET /coffeeshops/adora/%D8%A2%D8%AF%D9%88%D8%B1%D8%A7/ HTTP/1.1" 200 22439
+2023-01-30 02:00:32,486 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:32,487 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:33,018 DEBUG: https://fidilio.com:443 "GET /coffeeshops/karzin_mehrabad/%DA%A9%D8%A7%D8%B1%D8%B2%DB%8C%D9%86--%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87-%D9%85%D9%87%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF-/ HTTP/1.1" 200 27769
+2023-01-30 02:00:33,116 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:33,117 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:33,624 DEBUG: https://fidilio.com:443 "GET /coffeeshops/kurehcafeandworkshop/%DA%A9%D8%A7%D8%B1%DA%AF%D8%A7%D9%87-%D8%B3%D9%81%D8%A7%D9%84%DA%AF%D8%B1%DB%8C-%DA%A9%D9%88%D8%B1%D9%87/ HTTP/1.1" 200 29880
+2023-01-30 02:00:33,726 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:33,727 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:34,225 DEBUG: https://fidilio.com:443 "GET /coffeeshops/karzin_enghelab/%DA%A9%D8%A7%D8%B1%D8%B2%DB%8C%D9%86--%D8%A8%D8%A7%D8%B4%DA%AF%D8%A7%D9%87-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-/ HTTP/1.1" 200 28352
+2023-01-30 02:00:34,326 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:34,327 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:35,026 DEBUG: https://fidilio.com:443 "GET /coffeeshops/karzin_niavaran/%DA%A9%D8%A7%D8%B1%D8%B2%DB%8C%D9%86--%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86-/ HTTP/1.1" 200 29901
+2023-01-30 02:00:35,141 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:35,142 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:35,624 DEBUG: https://fidilio.com:443 "GET /coffeeshops/karzin_gharb/%DA%A9%D8%A7%D8%B1%D8%B2%DB%8C%D9%86--%D8%B4%D9%87%D8%B1%DA%A9-%D8%BA%D8%B1%D8%A8-/ HTTP/1.1" 200 28363
+2023-01-30 02:00:35,724 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:35,725 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:36,237 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafeclover/%DA%A9%D9%84%D8%A7%D9%88%D8%B1/ HTTP/1.1" 200 25907
+2023-01-30 02:00:36,334 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:36,335 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:36,848 DEBUG: https://fidilio.com:443 "GET /coffeeshops/gamerepublic/%DA%AF%DB%8C%D9%85-%D8%B1%DB%8C%D9%BE%D8%A7%D8%A8%D9%84%DB%8C%DA%A9/ HTTP/1.1" 200 26370
+2023-01-30 02:00:36,949 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:36,950 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:52,105 DEBUG: https://fidilio.com:443 "GET /coffeeshops/adacafe/%D8%A2%D8%AF%D8%A7-%D9%84%D8%A7%D9%86%DA%98/ HTTP/1.1" 302 207
+2023-01-30 02:00:52,189 DEBUG: https://fidilio.com:443 "GET /error/500?aspxerrorpath=/coffeeshops/adacafe/%D8%A2%D8%AF%D8%A7-%D9%84%D8%A7%D9%86%DA%98/ HTTP/1.1" 200 7272
+2023-01-30 02:00:52,201 WARNING: Failed to extract data from city=tehran page=7
+2023-01-30 02:00:52,201 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=8]
+2023-01-30 02:00:52,202 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:52,536 DEBUG: https://fidilio.com:443 "GET /coffeeshops/in/tehran/?p=8 HTTP/1.1" 200 20775
+2023-01-30 02:00:52,638 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:54,919 DEBUG: https://fidilio.com:443 "GET /coffeeshops/beliton/%D8%A8%D9%84%DB%8C%D8%AA%D9%88%D9%86/ HTTP/1.1" 200 21642
+2023-01-30 02:00:55,011 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:55,012 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:56,060 DEBUG: https://fidilio.com:443 "GET /coffeeshops/rabocaf/%D8%B1%D8%A7%D8%A8%D9%88/ HTTP/1.1" 200 24756
+2023-01-30 02:00:56,152 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:56,153 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:56,888 DEBUG: https://fidilio.com:443 "GET /coffeeshops/vario/%D9%88%D8%A7%D8%B1%DB%8C%D9%88/ HTTP/1.1" 200 20005
+2023-01-30 02:00:56,992 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:56,992 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:00:58,281 DEBUG: https://fidilio.com:443 "GET /coffeeshops/vibecafevip/%D9%88%D8%A7%DB%8C%D8%A8/ HTTP/1.1" 200 20149
+2023-01-30 02:00:58,383 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:00:58,384 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:01:13,446 DEBUG: https://fidilio.com:443 "GET /coffeeshops/start_line/%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%AA-%D9%84%D8%A7%DB%8C%D9%86/ HTTP/1.1" 302 228
+2023-01-30 02:01:13,530 DEBUG: https://fidilio.com:443 "GET /error/500?aspxerrorpath=/coffeeshops/start_line/%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%AA-%D9%84%D8%A7%DB%8C%D9%86/ HTTP/1.1" 200 7281
+2023-01-30 02:01:13,540 WARNING: Failed to extract data from city=tehran page=8
+2023-01-30 02:01:13,541 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:01:14,176 DEBUG: https://fidilio.com:443 "GET /coffeeshops/luigi_gisha/%D9%84%D9%88%D8%A6%DB%8C%D8%AC%DB%8C--%DA%AF%DB%8C%D8%B4%D8%A7-/ HTTP/1.1" 200 22998
+2023-01-30 02:01:14,266 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:01:14,267 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:01:15,397 DEBUG: https://fidilio.com:443 "GET /coffeeshops/luigi_tirazhe/%D9%84%D9%88%D8%A6%DB%8C%D8%AC%DB%8C--%D8%AA%DB%8C%D8%B1%D8%A7%DA%98%D9%87-/ HTTP/1.1" 200 22785
+2023-01-30 02:01:15,511 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:01:15,512 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:01:16,004 DEBUG: https://fidilio.com:443 "GET /coffeeshops/luigi_land/%D9%84%D9%88%D8%A6%DB%8C%D8%AC%DB%8C--%D8%B4%D9%87%D8%B1%DA%A9-%D8%BA%D8%B1%D8%A8-/ HTTP/1.1" 200 23072
+2023-01-30 02:01:16,092 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:01:16,093 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:01:16,753 DEBUG: https://fidilio.com:443 "GET /coffeeshops/restaurant_sarashpaz_tuba/%D8%B3%D8%B1%D8%A2%D8%B4%D9%BE%D8%B2/ HTTP/1.1" 200 20156
+2023-01-30 02:01:16,836 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:01:16,837 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:01:17,481 DEBUG: https://fidilio.com:443 "GET /coffeeshops/lavender_jordan/%D9%84%D9%88%D9%86%D8%AF%D8%B1--%D8%AC%D8%B1%D8%AF%D9%86-/ HTTP/1.1" 200 26416
+2023-01-30 02:01:17,575 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:01:17,576 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:01:18,388 DEBUG: https://fidilio.com:443 "GET /coffeeshops/tissa_lounge/%D8%AA%DB%8C%D8%B3%D8%A7-%D9%84%D8%A7%D9%86%DA%98/ HTTP/1.1" 200 24079
+2023-01-30 02:01:18,482 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:01:18,483 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:01:19,787 DEBUG: https://fidilio.com:443 "GET /coffeeshops/deiox_cafe/%D8%AF%DB%8C%D9%88%DA%A9%D8%B3/ HTTP/1.1" 200 20124
+2023-01-30 02:01:19,871 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:01:19,872 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:01:20,847 DEBUG: https://fidilio.com:443 "GET /coffeeshops/lanima_restaurant/%D9%84%D9%86%DB%8C%D9%85%D8%A7/ HTTP/1.1" 200 26350
+2023-01-30 02:01:20,970 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:01:20,971 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:01:36,293 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafexpress/%D8%A7%DA%A9%D8%B3%D9%BE%D8%B1%D8%B3/ HTTP/1.1" 302 203
+2023-01-30 02:01:36,376 DEBUG: https://fidilio.com:443 "GET /error/500?aspxerrorpath=/coffeeshops/cafexpress/%D8%A7%DA%A9%D8%B3%D9%BE%D8%B1%D8%B3/ HTTP/1.1" 200 7273
+2023-01-30 02:01:36,387 WARNING: Failed to extract data from city=tehran page=8
+2023-01-30 02:01:36,388 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:01:37,034 DEBUG: https://fidilio.com:443 "GET /coffeeshops/wanderinginprague/%D9%BE%D8%B1%D8%B3%D9%87-%D8%AF%D8%B1-%D9%BE%D8%B1%D8%A7%DA%AF/ HTTP/1.1" 200 20136
+2023-01-30 02:01:37,119 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:01:37,120 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:01:37,730 DEBUG: https://fidilio.com:443 "GET /coffeeshops/little_italy/%D9%84%DB%8C%D8%AA%D9%84-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C/ HTTP/1.1" 200 22597
+2023-01-30 02:01:37,820 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:01:37,821 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:01:38,394 DEBUG: https://fidilio.com:443 "GET /coffeeshops/laluce_restaurant/%D9%84%D8%A7%D9%84%DA%86%D9%87/ HTTP/1.1" 200 22738
+2023-01-30 02:01:38,489 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:01:38,490 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:01:40,215 DEBUG: https://fidilio.com:443 "GET /coffeeshops/kaiser_cafe_restaurants/%DA%A9%D8%A7%DB%8C%D8%B3%D8%B1/ HTTP/1.1" 200 25129
+2023-01-30 02:01:40,317 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:01:40,317 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:01:40,903 DEBUG: https://fidilio.com:443 "GET /coffeeshops/majolcafe/%D9%85%D8%A7%DA%98%D9%88%D9%84/ HTTP/1.1" 200 20090
+2023-01-30 02:01:40,993 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:01:40,994 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:01:56,044 DEBUG: https://fidilio.com:443 "GET /coffeeshops/indra/%D8%A7%DB%8C%D9%86%D8%AF%D8%B1%D8%A7/ HTTP/1.1" 302 198
+2023-01-30 02:01:56,143 DEBUG: https://fidilio.com:443 "GET /error/500?aspxerrorpath=/coffeeshops/indra/%D8%A7%DB%8C%D9%86%D8%AF%D8%B1%D8%A7/ HTTP/1.1" 200 7263
+2023-01-30 02:01:56,154 WARNING: Failed to extract data from city=tehran page=8
+2023-01-30 02:01:56,155 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:01:57,521 DEBUG: https://fidilio.com:443 "GET /coffeeshops/shahkuh/%D8%B4%D8%A7%D9%87-%DA%A9%D9%88%D9%87/ HTTP/1.1" 200 20125
+2023-01-30 02:01:57,612 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:01:57,612 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=9]
+2023-01-30 02:01:57,613 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:01:57,969 DEBUG: https://fidilio.com:443 "GET /coffeeshops/in/tehran/?p=9 HTTP/1.1" 200 20731
+2023-01-30 02:01:58,067 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:01:59,285 DEBUG: https://fidilio.com:443 "GET /coffeeshops/anobani/%D8%A2%D9%86%D9%88%D8%A8%D8%A7%D9%86%DB%8C/ HTTP/1.1" 200 21867
+2023-01-30 02:01:59,367 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:01:59,368 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:00,613 DEBUG: https://fidilio.com:443 "GET /coffeeshops/ebteda_cafe/%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7/ HTTP/1.1" 200 26467
+2023-01-30 02:02:00,819 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:00,820 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:02,071 DEBUG: https://fidilio.com:443 "GET /coffeeshops/khaneatlasi/%D8%AE%D8%A7%D9%86%D9%87-%D8%A7%D8%B7%D9%84%D8%B3%DB%8C/ HTTP/1.1" 200 25620
+2023-01-30 02:02:02,200 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:02,201 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:03,058 DEBUG: https://fidilio.com:443 "GET /coffeeshops/mocafe/%D9%85%D9%8F/ HTTP/1.1" 200 23104
+2023-01-30 02:02:03,172 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:03,173 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:04,147 DEBUG: https://fidilio.com:443 "GET /coffeeshops/nezamiyeh_boutique_hotel/%D8%A8%D9%88%D8%AA%DB%8C%DA%A9-%D9%87%D8%AA%D9%84-%D9%86%D8%B8%D8%A7%D9%85%DB%8C%D9%87/ HTTP/1.1" 200 20229
+2023-01-30 02:02:04,254 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:04,255 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:05,330 DEBUG: https://fidilio.com:443 "GET /coffeeshops/divaa_cafe/%D8%AF%DB%8C%D9%88%D8%A7/ HTTP/1.1" 200 25244
+2023-01-30 02:02:05,411 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:05,412 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:06,160 DEBUG: https://fidilio.com:443 "GET /coffeeshops/2shotcafe/%D8%AA%D9%88%D8%B4%D8%A7%D8%AA/ HTTP/1.1" 200 20144
+2023-01-30 02:02:06,273 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:06,273 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:07,219 DEBUG: https://fidilio.com:443 "GET /coffeeshops/shamsa_house/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA-%D8%B4%D9%85%D8%B3%D8%A7/ HTTP/1.1" 200 27026
+2023-01-30 02:02:07,311 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:07,312 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:08,546 DEBUG: https://fidilio.com:443 "GET /coffeeshops/jayidigarbookcafe/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%AC%D8%A7%DB%8C%DB%8C-%D8%AF%DB%8C%DA%AF%D8%B1/ HTTP/1.1" 200 24765
+2023-01-30 02:02:08,639 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:08,640 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:09,784 DEBUG: https://fidilio.com:443 "GET /coffeeshops/justfresh/%D8%AC%D8%A7%D8%B3%D8%AA-%D9%81%D8%B1%D8%B4/ HTTP/1.1" 200 25593
+2023-01-30 02:02:09,875 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:09,875 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:10,757 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafetehroonkandovan/%D8%AA%D9%87%D8%B1%D9%88%D9%86-%DA%A9%D9%86%D8%AF%D9%88%D8%A7%D9%86/ HTTP/1.1" 200 26958
+2023-01-30 02:02:10,875 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:10,876 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:12,304 DEBUG: https://fidilio.com:443 "GET /coffeeshops/mito/%D9%85%DB%8C%D8%AA%D9%88/ HTTP/1.1" 200 27510
+2023-01-30 02:02:12,409 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:12,410 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:27,407 DEBUG: https://fidilio.com:443 "GET /coffeeshops/saless_book_cafe/%D9%87%D9%86%D8%B1-%D8%AB%D8%A7%D9%84%D8%AB--%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D8%A7%D9%84-/ HTTP/1.1" 302 268
+2023-01-30 02:02:27,493 DEBUG: https://fidilio.com:443 "GET /error/500?aspxerrorpath=/coffeeshops/saless_book_cafe/%D9%87%D9%86%D8%B1-%D8%AB%D8%A7%D9%84%D8%AB--%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D8%A7%D9%84-/ HTTP/1.1" 200 7305
+2023-01-30 02:02:27,505 WARNING: Failed to extract data from city=tehran page=9
+2023-01-30 02:02:27,506 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:28,015 DEBUG: https://fidilio.com:443 "GET /coffeeshops/sharbatkhaneh_iranmall/%D8%B4%D8%B1%D8%A8%D8%AA-%D8%AE%D8%A7%D9%86%D9%87/ HTTP/1.1" 200 21736
+2023-01-30 02:02:28,105 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:28,106 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:28,611 DEBUG: https://fidilio.com:443 "GET /coffeeshops/lounge_cinema/%D8%B3%DB%8C%D9%86%D9%85%D8%A7-%D9%84%D8%A7%D9%86%DA%98/ HTTP/1.1" 302 225
+2023-01-30 02:02:28,693 DEBUG: https://fidilio.com:443 "GET /error/500?aspxerrorpath=/coffeeshops/lounge_cinema/%D8%B3%DB%8C%D9%86%D9%85%D8%A7-%D9%84%D8%A7%D9%86%DA%98/ HTTP/1.1" 200 7291
+2023-01-30 02:02:28,704 WARNING: Failed to extract data from city=tehran page=9
+2023-01-30 02:02:28,705 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:29,309 DEBUG: https://fidilio.com:443 "GET /coffeeshops/kavich_andarzgu/%DA%A9%D8%A7%D9%88%DB%8C%DA%86/ HTTP/1.1" 200 22624
+2023-01-30 02:02:29,398 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:29,399 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:30,880 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafe_burka/%D8%A8%D9%88%D8%B1%DA%A9%D8%A7/ HTTP/1.1" 200 19935
+2023-01-30 02:02:30,974 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:30,975 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:31,655 DEBUG: https://fidilio.com:443 "GET /coffeeshops/vania_pastry_cafe/%D9%88%D8%A7%D9%86%DB%8C%D8%A7/ HTTP/1.1" 200 20077
+2023-01-30 02:02:31,745 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:31,746 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:32,842 DEBUG: https://fidilio.com:443 "GET /coffeeshops/karno_food/%DA%A9%D8%A7%D8%B1%D9%86%D9%88/ HTTP/1.1" 200 31343
+2023-01-30 02:02:32,954 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:32,955 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:33,950 DEBUG: https://fidilio.com:443 "GET /coffeeshops/interni/%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%DB%8C--%D9%88%D9%84%D9%86%D8%AC%DA%A9-/ HTTP/1.1" 200 25025
+2023-01-30 02:02:34,061 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:34,062 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:34,657 DEBUG: https://fidilio.com:443 "GET /coffeeshops/ketab_niyavaran/%DA%A9%D8%AA%D8%A7%D8%A8--%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86-/ HTTP/1.1" 200 19925
+2023-01-30 02:02:34,804 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:34,805 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=10]
+2023-01-30 02:02:34,806 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:35,157 DEBUG: https://fidilio.com:443 "GET /coffeeshops/in/tehran/?p=10 HTTP/1.1" 200 20648
+2023-01-30 02:02:35,261 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:36,159 DEBUG: https://fidilio.com:443 "GET /coffeeshops/ketab_niyavaran/%DA%A9%D8%AA%D8%A7%D8%A8--%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86-/ HTTP/1.1" 200 19924
+2023-01-30 02:02:36,254 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:36,255 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:37,184 DEBUG: https://fidilio.com:443 "GET /coffeeshops/sambisam/%D8%B3%D9%85-%D8%A8%DB%8C-%D8%B3%D9%85/ HTTP/1.1" 200 24861
+2023-01-30 02:02:37,249 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:37,250 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:37,832 DEBUG: https://fidilio.com:443 "GET /coffeeshops/saraye_arghavan/%D8%B3%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B1%D8%BA%D9%88%D8%A7%D9%86/ HTTP/1.1" 200 25162
+2023-01-30 02:02:38,006 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:38,008 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:38,499 DEBUG: https://fidilio.com:443 "GET /coffeeshops/seen_college/%D8%B3%DB%8C%D9%86--%DA%A9%D8%A7%D9%84%D8%AC-/ HTTP/1.1" 200 28867
+2023-01-30 02:02:38,603 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:38,604 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:39,833 DEBUG: https://fidilio.com:443 "GET /coffeeshops/lotus_restaurant/%D9%84%D9%88%D8%AA%D9%88%D8%B3/ HTTP/1.1" 200 23420
+2023-01-30 02:02:39,926 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:39,926 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:40,535 DEBUG: https://fidilio.com:443 "GET /coffeeshops/pegaharthouse/%D9%BE%DA%AF%D8%A7%D9%87/ HTTP/1.1" 200 22826
+2023-01-30 02:02:40,636 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:40,637 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:41,850 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafedaj/%D8%AF%D8%A7%D8%AC/ HTTP/1.1" 200 25271
+2023-01-30 02:02:41,968 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:41,969 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:43,005 DEBUG: https://fidilio.com:443 "GET /coffeeshops/nonstop_cafe/%D9%86%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%D8%A7%D9%BE/ HTTP/1.1" 200 25588
+2023-01-30 02:02:43,104 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:43,104 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:43,795 DEBUG: https://fidilio.com:443 "GET /coffeeshops/khaneh_nafisa_saadatabad/%D8%AE%D8%A7%D9%86%D9%87-%D9%86%D9%81%DB%8C%D8%B3%D8%A7/ HTTP/1.1" 200 25843
+2023-01-30 02:02:43,889 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:43,890 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:44,578 DEBUG: https://fidilio.com:443 "GET /coffeeshops/vahebookcafe/%D9%88%D8%A7%D8%AD%D9%87/ HTTP/1.1" 200 20025
+2023-01-30 02:02:44,695 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:44,697 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:45,762 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafe_clinic/%DA%A9%D9%84%DB%8C%D9%86%DB%8C%DA%A9/ HTTP/1.1" 200 26878
+2023-01-30 02:02:45,836 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:45,837 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:46,624 DEBUG: https://fidilio.com:443 "GET /coffeeshops/razzaz_boutique/%D8%AE%D8%A7%D9%86%D9%87-%D9%BE%D9%87%D9%84%D9%88%D8%A7%D9%86-%D8%B1%D8%B2%D8%A7%D8%B2/ HTTP/1.1" 200 19932
+2023-01-30 02:02:46,707 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:46,708 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:47,498 DEBUG: https://fidilio.com:443 "GET /coffeeshops/pera/%D9%BE%D8%B1%D8%A7/ HTTP/1.1" 200 23447
+2023-01-30 02:02:47,589 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:47,590 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:48,164 DEBUG: https://fidilio.com:443 "GET /coffeeshops/osho_cafe/%D8%A7%D9%8F%D8%B4%D9%88/ HTTP/1.1" 200 23850
+2023-01-30 02:02:48,256 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:48,257 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:49,992 DEBUG: https://fidilio.com:443 "GET /coffeeshops/tehrooncafe_iranshahr/%D8%B7%D9%87%D8%B1%D9%88%D9%86--%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B4%D9%87%D8%B1-/ HTTP/1.1" 200 24275
+2023-01-30 02:02:50,084 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:50,085 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:50,771 DEBUG: https://fidilio.com:443 "GET /coffeeshops/hozekashi/%D8%AD%D9%88%D8%B6-%DA%A9%D8%A7%D8%B4%DB%8C/ HTTP/1.1" 200 19956
+2023-01-30 02:02:50,922 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:50,923 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:51,694 DEBUG: https://fidilio.com:443 "GET /coffeeshops/sinaancafe/%D8%B3%DB%8C%D9%86%D8%A7%D9%86/ HTTP/1.1" 200 30302
+2023-01-30 02:02:51,803 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:51,804 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:52,556 DEBUG: https://fidilio.com:443 "GET /coffeeshops/redcafe_takeaway/%D8%B1%D8%AF--%D8%A8%D8%A7%D9%84-%D8%AA%DB%8C-/ HTTP/1.1" 200 22459
+2023-01-30 02:02:52,658 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:52,659 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:53,273 DEBUG: https://fidilio.com:443 "GET /coffeeshops/coferesturan_theone/%D8%AF-%D9%88%D8%A7%D9%86--%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF-/ HTTP/1.1" 200 20303
+2023-01-30 02:02:53,435 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:53,436 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:54,131 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafelanti/%D9%84%D8%A7%D9%86%D8%AA%DB%8C/ HTTP/1.1" 200 25051
+2023-01-30 02:02:54,284 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:54,286 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:54,847 DEBUG: https://fidilio.com:443 "GET /coffeeshops/diba_mirdamad/%D8%AF%DB%8C%D8%A8%D8%A7--%D9%87%D8%AA%D9%84-%DA%A9%D9%88%D8%B1%D9%88%D8%B4-/ HTTP/1.1" 200 24498
+2023-01-30 02:02:54,999 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:55,000 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=11]
+2023-01-30 02:02:55,000 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:55,384 DEBUG: https://fidilio.com:443 "GET /coffeeshops/in/tehran/?p=11 HTTP/1.1" 200 20758
+2023-01-30 02:02:55,553 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:56,175 DEBUG: https://fidilio.com:443 "GET /coffeeshops/dobarbakery2/%D8%AF%D9%88%D8%A8%D8%A7%D8%B1--%D9%BE%D8%A7%D8%B1%DA%A9-%D9%BE%D8%B1%D9%86%D8%B3-/ HTTP/1.1" 200 23837
+2023-01-30 02:02:56,273 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:56,274 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:56,798 DEBUG: https://fidilio.com:443 "GET /coffeeshops/dobarbakery/%D8%AF%D9%88%D8%A8%D8%A7%D8%B1-%D8%A8%D8%B1%D8%AC-%D8%A2%D9%81%D8%AA%D8%A7%D8%A8-/ HTTP/1.1" 200 23852
+2023-01-30 02:02:56,889 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:56,890 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:57,604 DEBUG: https://fidilio.com:443 "GET /coffeeshops/alsocafe/%D8%A2%D9%84%D8%B3%D9%88/ HTTP/1.1" 200 19894
+2023-01-30 02:02:57,690 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:57,691 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:58,332 DEBUG: https://fidilio.com:443 "GET /coffeeshops/havaliedelbar/%D8%AD%D9%88%D8%A7%D9%84%DB%8C-%D8%AF%D9%84%D8%A8%D8%B1/ HTTP/1.1" 200 26752
+2023-01-30 02:02:58,436 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:58,437 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:02:59,021 DEBUG: https://fidilio.com:443 "GET /coffeeshops/serbon/%D8%B3%D8%B1%D8%A8%D9%86/ HTTP/1.1" 200 23483
+2023-01-30 02:02:59,137 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:02:59,138 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:03:00,305 DEBUG: https://fidilio.com:443 "GET /coffeeshops/hasht_behesht/%D9%87%D8%B4%D8%AA-%D8%A8%D9%87%D8%B4%D8%AA/ HTTP/1.1" 200 24851
+2023-01-30 02:03:00,465 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:03:00,466 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:03:01,271 DEBUG: https://fidilio.com:443 "GET /coffeeshops/bal_iranmal/%D8%A8%D8%A7%D9%84--%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D8%A7%D9%84-/ HTTP/1.1" 200 28813
+2023-01-30 02:03:01,394 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:03:01,395 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:03:01,904 DEBUG: https://fidilio.com:443 "GET /coffeeshops/bal_jordan/%D8%A8%D8%A7%D9%84--%D8%AC%D8%B1%D8%AF%D9%86-/ HTTP/1.1" 200 24778
+2023-01-30 02:03:02,002 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:03:02,003 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:03:02,864 DEBUG: https://fidilio.com:443 "GET /coffeeshops/pets/%D9%BE%D8%AA/ HTTP/1.1" 200 19897
+2023-01-30 02:03:02,949 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:03:02,950 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:03:03,530 DEBUG: https://fidilio.com:443 "GET /coffeeshops/matsu_lounge/%D9%85%D8%A7%D8%AA%D8%B3%D9%88-%D9%84%D8%A7%D9%86%DA%98/ HTTP/1.1" 200 27315
+2023-01-30 02:03:03,698 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:03:03,700 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:03:04,845 DEBUG: https://fidilio.com:443 "GET /coffeeshops/lamoure_org/%D9%84%D8%A7%D9%85%D9%88%D8%B1/ HTTP/1.1" 200 23840
+2023-01-30 02:03:05,005 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:03:05,006 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:03:20,221 DEBUG: https://fidilio.com:443 "GET /coffeeshops/baran_mansion/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA-%D8%A8%D8%A7%D8%B1%D8%A7%D9%86/ HTTP/1.1" 302 231
+2023-01-30 02:03:20,303 DEBUG: https://fidilio.com:443 "GET /error/500?aspxerrorpath=/coffeeshops/baran_mansion/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA-%D8%A8%D8%A7%D8%B1%D8%A7%D9%86/ HTTP/1.1" 200 7284
+2023-01-30 02:03:20,314 WARNING: Failed to extract data from city=tehran page=11
+2023-01-30 02:03:20,315 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:03:21,921 DEBUG: https://fidilio.com:443 "GET /coffeeshops/roomeroonrestaurant/%D8%B1%D9%88%D9%85%D8%B1%D9%88%D9%86/ HTTP/1.1" 200 20159
+2023-01-30 02:03:22,007 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:03:22,008 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:03:22,769 DEBUG: https://fidilio.com:443 "GET /coffeeshops/pastofood/%D9%BE%D8%B3%D8%AA%D9%88--%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF-/ HTTP/1.1" 200 32961
+2023-01-30 02:03:22,883 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:03:22,884 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:03:24,019 DEBUG: https://fidilio.com:443 "GET /coffeeshops/paypar_complex/%D9%BE%D8%A7%DB%8C%D9%BE%D8%A7%D8%B1/ HTTP/1.1" 200 21276
+2023-01-30 02:03:24,107 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:03:24,108 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:03:39,885 DEBUG: https://fidilio.com:443 "GET /coffeeshops/houseofcard/%D8%A8%D8%B1%D8%AF-%DA%AF%DB%8C%D9%85-%D8%B9%D9%85%D8%A7%D8%B1%D8%AA-%D9%81%D8%B1%D8%AF%D9%88%D8%B3/ HTTP/1.1" 302 267
+2023-01-30 02:03:39,971 DEBUG: https://fidilio.com:443 "GET /error/500?aspxerrorpath=/coffeeshops/houseofcard/%D8%A8%D8%B1%D8%AF-%DA%AF%DB%8C%D9%85-%D8%B9%D9%85%D8%A7%D8%B1%D8%AA-%D9%81%D8%B1%D8%AF%D9%88%D8%B3/ HTTP/1.1" 200 7305
+2023-01-30 02:03:39,982 WARNING: Failed to extract data from city=tehran page=11
+2023-01-30 02:03:39,982 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:03:40,870 DEBUG: https://fidilio.com:443 "GET /coffeeshops/rischee29/%DA%AF%D8%A7%D9%84%D8%B1%DB%8C-%D8%B1%DB%8C%D8%B4%D9%8729/ HTTP/1.1" 200 20019
+2023-01-30 02:03:41,032 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:03:41,033 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:03:41,672 DEBUG: https://fidilio.com:443 "GET /coffeeshops/rosettcafe/%D8%B1%D8%B2%D8%AA/ HTTP/1.1" 200 24392
+2023-01-30 02:03:41,768 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:03:41,769 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:03:42,793 DEBUG: https://fidilio.com:443 "GET /coffeeshops/chaikenar/%DA%86%D8%A7%DB%8C-%DA%A9%D9%86%D8%A7%D8%B1/ HTTP/1.1" 200 23911
+2023-01-30 02:03:42,896 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:03:42,897 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:03:43,988 DEBUG: https://fidilio.com:443 "GET /coffeeshops/garnet/%DA%AF%D8%A7%D8%B1%D9%86%D8%AA/ HTTP/1.1" 200 25997
+2023-01-30 02:03:44,084 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:03:44,085 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:03:44,779 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafe_baran1/%D8%A8%D8%A7%D8%B1%D8%A7%D9%86/ HTTP/1.1" 200 22032
+2023-01-30 02:03:44,873 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:03:44,874 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=12]
+2023-01-30 02:03:44,875 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:03:45,214 DEBUG: https://fidilio.com:443 "GET /coffeeshops/in/tehran/?p=12 HTTP/1.1" 200 20567
+2023-01-30 02:03:45,315 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:03:46,279 DEBUG: https://fidilio.com:443 "GET /coffeeshops/central_caferestaurant/%D8%B3%D9%86%D8%AA%D8%B1%D8%A7%D9%84/ HTTP/1.1" 200 22852
+2023-01-30 02:03:46,374 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:03:46,375 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:02,219 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafe_lyar/%D9%84%DB%8C%D8%A7%D8%B1/ HTTP/1.1" 302 190
+2023-01-30 02:04:02,309 DEBUG: https://fidilio.com:443 "GET /error/500?aspxerrorpath=/coffeeshops/cafe_lyar/%D9%84%DB%8C%D8%A7%D8%B1/ HTTP/1.1" 200 7265
+2023-01-30 02:04:02,319 WARNING: Failed to extract data from city=tehran page=12
+2023-01-30 02:04:02,320 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:03,449 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafe_ceramic/%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%85%D9%88%D8%B2%D9%87/ HTTP/1.1" 200 20114
+2023-01-30 02:04:03,535 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:03,536 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:04,304 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafe_theatre/%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1/ HTTP/1.1" 200 25510
+2023-01-30 02:04:04,404 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:04,405 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:05,170 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafe_greenbean/%DA%AF%D8%B1%DB%8C%D9%86-%D8%A8%DB%8C%D9%86/ HTTP/1.1" 200 23782
+2023-01-30 02:04:05,261 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:05,262 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:05,909 DEBUG: https://fidilio.com:443 "GET /coffeeshops/pantheon_cafe_resturant/%D9%BE%D8%A7%D9%86%D8%AA%D9%88%D9%86/ HTTP/1.1" 200 22243
+2023-01-30 02:04:06,024 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:06,025 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:07,141 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafe__zehn/%D8%B0%D9%87%D9%86/ HTTP/1.1" 200 20013
+2023-01-30 02:04:07,228 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:07,229 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:08,532 DEBUG: https://fidilio.com:443 "GET /coffeeshops/lorenzo_lounge/%D9%84%D9%88%D8%B1%D9%86%D8%B2%D9%88/ HTTP/1.1" 200 26511
+2023-01-30 02:04:08,630 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:08,631 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:09,340 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafediamond/%D8%AF%D8%A7%DB%8C%D9%85%D9%86%D8%AF/ HTTP/1.1" 200 20207
+2023-01-30 02:04:09,426 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:09,427 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:10,034 DEBUG: https://fidilio.com:443 "GET /coffeeshops/hattrick_cafe/%D9%87%D8%AA%D8%B1%DB%8C%DA%A9/ HTTP/1.1" 200 24607
+2023-01-30 02:04:10,135 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:10,136 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:10,958 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafe_boardica/%D8%A8%D9%88%D8%B1%D8%AF%DB%8C%DA%A9%D8%A7/ HTTP/1.1" 200 20142
+2023-01-30 02:04:11,044 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:11,045 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:12,198 DEBUG: https://fidilio.com:443 "GET /coffeeshops/fekrkade_complex_opal/%D9%81%DA%A9%D8%B1%DA%A9%D8%AF%D9%87--%D8%A7%D9%8F%D9%BE%D8%A7%D9%84-/ HTTP/1.1" 200 20191
+2023-01-30 02:04:12,281 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:12,282 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:13,632 DEBUG: https://fidilio.com:443 "GET /coffeeshops/mysterybox/%D9%85%DB%8C%D8%B3%D8%AA%D8%B1%DB%8C-%D8%A8%D8%A7%DA%A9%D8%B3/ HTTP/1.1" 200 20031
+2023-01-30 02:04:13,716 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:13,717 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:14,916 DEBUG: https://fidilio.com:443 "GET /coffeeshops/pol_art/%D9%BE%D9%84-%D8%A2%D8%B1%D8%AA/ HTTP/1.1" 200 22716
+2023-01-30 02:04:15,009 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:15,010 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:30,542 DEBUG: https://fidilio.com:443 "GET /coffeeshops/moon_lightlounge/%D9%85%D9%88%D9%86-%D9%84%D8%A7%DB%8C%D8%AA-%D9%84%D8%A7%D9%86%DA%98/ HTTP/1.1" 302 241
+2023-01-30 02:04:30,625 DEBUG: https://fidilio.com:443 "GET /error/500?aspxerrorpath=/coffeeshops/moon_lightlounge/%D9%85%D9%88%D9%86-%D9%84%D8%A7%DB%8C%D8%AA-%D9%84%D8%A7%D9%86%DA%98/ HTTP/1.1" 200 7294
+2023-01-30 02:04:30,635 WARNING: Failed to extract data from city=tehran page=12
+2023-01-30 02:04:30,636 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:31,661 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafe_arsh/%D8%B9%D8%B1%D8%B4/ HTTP/1.1" 200 19874
+2023-01-30 02:04:31,699 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:31,700 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:32,942 DEBUG: https://fidilio.com:443 "GET /coffeeshops/royalrosecafe/%D8%B1%D9%88%DB%8C%D8%A7%D9%84-%D8%B1%D8%B2/ HTTP/1.1" 200 25326
+2023-01-30 02:04:33,036 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:33,037 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:33,832 DEBUG: https://fidilio.com:443 "GET /coffeeshops/ravicafegallery/%DA%AF%D8%A7%D9%84%D8%B1%DB%8C-%D8%B1%D8%A7%D9%88%DB%8C/ HTTP/1.1" 200 26919
+2023-01-30 02:04:33,937 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:33,938 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:34,580 DEBUG: https://fidilio.com:443 "GET /coffeeshops/shar_lounge/%D8%B4%D8%A7%D8%B1-%D9%84%D8%A7%D9%86%DA%98/ HTTP/1.1" 200 20292
+2023-01-30 02:04:34,667 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:34,668 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:35,465 DEBUG: https://fidilio.com:443 "GET /coffeeshops/maya_cottage/%D9%85%D8%A7%DB%8C%D8%A7/ HTTP/1.1" 200 20025
+2023-01-30 02:04:35,558 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:35,559 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:37,145 DEBUG: https://fidilio.com:443 "GET /coffeeshops/schonbrunn/%D8%B4%D9%88%D9%86-%D8%A8%D8%B1%D9%88%D9%86/ HTTP/1.1" 200 37954
+2023-01-30 02:04:37,315 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:37,315 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=13]
+2023-01-30 02:04:37,316 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:37,684 DEBUG: https://fidilio.com:443 "GET /coffeeshops/in/tehran/?p=13 HTTP/1.1" 200 20648
+2023-01-30 02:04:37,784 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:39,333 DEBUG: https://fidilio.com:443 "GET /coffeeshops/amore_cafee/%D8%A2%D9%85%D9%88%D8%B1%D9%87/ HTTP/1.1" 200 27597
+2023-01-30 02:04:39,437 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:39,437 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:40,124 DEBUG: https://fidilio.com:443 "GET /coffeeshops/objet/%D8%A7%D9%8F%D8%A8%DA%98%D9%87/ HTTP/1.1" 200 26099
+2023-01-30 02:04:40,223 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:40,224 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:41,125 DEBUG: https://fidilio.com:443 "GET /coffeeshops/pensocafe/%D9%BE%D9%86%D8%B3%D9%88/ HTTP/1.1" 200 26176
+2023-01-30 02:04:41,220 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:41,221 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:42,598 DEBUG: https://fidilio.com:443 "GET /coffeeshops/toos_cafe/%D8%AA%D9%88%D8%B3%DA%A9%D8%A7%D9%81%D9%87/ HTTP/1.1" 200 23785
+2023-01-30 02:04:42,722 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:42,723 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:43,623 DEBUG: https://fidilio.com:443 "GET /coffeeshops/paprika__house/%D8%AE%D8%A7%D9%86%D9%87-%D9%BE%D8%A7%D9%BE%D8%B1%DB%8C%DA%A9%D8%A7/ HTTP/1.1" 200 24262
+2023-01-30 02:04:43,774 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:43,775 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:44,714 DEBUG: https://fidilio.com:443 "GET /coffeeshops/marjolainegateau/%D9%85%D8%A7%D8%B1%DA%98%D9%88%D9%84%D9%86/ HTTP/1.1" 200 19969
+2023-01-30 02:04:44,801 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:44,802 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:46,098 DEBUG: https://fidilio.com:443 "GET /coffeeshops/delpiano_caferestaurant/%D8%AF%D9%84-%D9%BE%DB%8C%D8%A7%D9%86%D9%88/ HTTP/1.1" 200 23227
+2023-01-30 02:04:46,190 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:46,191 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:46,802 DEBUG: https://fidilio.com:443 "GET /coffeeshops/novel_cafe_restaurant/%D9%86%D9%88%D9%88%D9%84/ HTTP/1.1" 200 24795
+2023-01-30 02:04:46,945 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:46,946 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:47,811 DEBUG: https://fidilio.com:443 "GET /coffeeshops/rion_restaurant/%D8%B1%DB%8C%D9%88%D9%86/ HTTP/1.1" 200 28171
+2023-01-30 02:04:47,926 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:47,927 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:51,894 DEBUG: https://fidilio.com:443 "GET /coffeeshops/mahed/%D9%85%D8%A7%D9%87%D8%AF/ HTTP/1.1" 200 25248
+2023-01-30 02:04:51,947 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:51,948 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:52,789 DEBUG: https://fidilio.com:443 "GET /coffeeshops/bluma/%D8%A8%D9%84%D9%88%D9%85%D8%A7/ HTTP/1.1" 200 27165
+2023-01-30 02:04:52,889 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:52,890 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:54,831 DEBUG: https://fidilio.com:443 "GET /coffeeshops/dam_cafe/%D8%AF%D9%85/ HTTP/1.1" 200 24912
+2023-01-30 02:04:54,932 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:54,933 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:55,888 DEBUG: https://fidilio.com:443 "GET /coffeeshops/cafeviunasohrevardi/%D9%88%DB%8C%D9%88%D9%86%D8%A7--%D8%B3%D9%87%D8%B1%D9%88%D8%B1%D8%AF%DB%8C-/ HTTP/1.1" 200 20105
+2023-01-30 02:04:55,973 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:55,974 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:56,664 DEBUG: https://fidilio.com:443 "GET /coffeeshops/dibacheh_mansion/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA-%D8%AF%DB%8C%D8%A8%D8%A7%DA%86%D9%87/ HTTP/1.1" 200 35046
+2023-01-30 02:04:56,852 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:56,853 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:04:58,392 DEBUG: https://fidilio.com:443 "GET /coffeeshops/morralounge/%D9%85%D9%88%D8%B1%D8%A7%D9%84%D8%A7%D9%86%DA%98/ HTTP/1.1" 200 24145
+2023-01-30 02:04:58,513 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:04:58,514 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:13,540 DEBUG: https://fidilio.com:443 "GET /coffeeshops/monsterbastani/%D9%85%D8%A7%D9%86%D8%B3%D8%AA%D8%B1/ HTTP/1.1" 302 207
+2023-01-30 02:05:13,624 DEBUG: https://fidilio.com:443 "GET /error/500?aspxerrorpath=/coffeeshops/monsterbastani/%D9%85%D8%A7%D9%86%D8%B3%D8%AA%D8%B1/ HTTP/1.1" 200 7281
+2023-01-30 02:05:13,634 WARNING: Failed to extract data from city=tehran page=13
+2023-01-30 02:05:13,635 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:14,706 DEBUG: https://fidilio.com:443 "GET /coffeeshops/mann_book_cafe/%DA%A9%D8%AA%D8%A7%D8%A8-%D9%85%D9%86/ HTTP/1.1" 200 23953
+2023-01-30 02:05:14,796 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:05:14,797 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:15,850 DEBUG: https://fidilio.com:443 "GET /coffeeshops/zi_cafee/%D8%B2%DB%8C--%D8%A7%D8%B1%D8%AA%D8%B4-/ HTTP/1.1" 200 25869
+2023-01-30 02:05:15,943 INFO: city={city} page={number} scraped successfully.
+2023-01-30 02:05:15,945 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,002 WARNING: Failed to extract data from city=tehran page=13
+2023-01-30 02:05:26,003 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,005 WARNING: Failed to extract data from city=tehran page=13
+2023-01-30 02:05:26,006 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,007 WARNING: Failed to extract data from city=tehran page=13
+2023-01-30 02:05:26,007 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=14]
+2023-01-30 02:05:26,008 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,008 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=14 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BC2BF750>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,008 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=15]
+2023-01-30 02:05:26,009 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,010 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=15 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BA1E3910>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,010 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=16]
+2023-01-30 02:05:26,010 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,011 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=16 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BA585110>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,011 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=17]
+2023-01-30 02:05:26,011 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,012 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=17 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BC2BFD50>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,012 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=18]
+2023-01-30 02:05:26,013 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,013 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=18 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BC2BB7D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,013 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=19]
+2023-01-30 02:05:26,014 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,014 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=19 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193B9A8FF50>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,014 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=20]
+2023-01-30 02:05:26,015 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,015 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BC2BE950>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,015 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=21]
+2023-01-30 02:05:26,016 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,016 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=21 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD4250>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,016 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=22]
+2023-01-30 02:05:26,017 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,017 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=22 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD6190>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,017 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=23]
+2023-01-30 02:05:26,018 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,018 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=23 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD7850>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,018 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=24]
+2023-01-30 02:05:26,019 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,019 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=24 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD7ED0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,019 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=25]
+2023-01-30 02:05:26,020 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,020 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=25 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD74D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,020 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=26]
+2023-01-30 02:05:26,021 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,022 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=26 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD5B10>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,022 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=27]
+2023-01-30 02:05:26,023 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,023 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=27 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD66D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,023 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=28]
+2023-01-30 02:05:26,024 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,024 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=28 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD7590>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,024 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=29]
+2023-01-30 02:05:26,025 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,025 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=29 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD6A90>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,025 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=30]
+2023-01-30 02:05:26,026 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,026 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=30 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD5E90>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,026 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=31]
+2023-01-30 02:05:26,027 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,027 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=31 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD63D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,027 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=32]
+2023-01-30 02:05:26,028 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,028 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=32 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD4750>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,028 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=33]
+2023-01-30 02:05:26,029 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,029 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=33 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD4890>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,029 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=34]
+2023-01-30 02:05:26,030 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,030 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=34 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD5A50>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,030 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=35]
+2023-01-30 02:05:26,031 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,031 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=35 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD5E10>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,031 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=36]
+2023-01-30 02:05:26,032 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,032 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=36 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD7FD0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,032 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=37]
+2023-01-30 02:05:26,033 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,033 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=37 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD5390>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,033 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=38]
+2023-01-30 02:05:26,034 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,034 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=38 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD4E50>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,034 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=39]
+2023-01-30 02:05:26,035 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,035 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=39 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD5490>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,035 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=40]
+2023-01-30 02:05:26,036 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,037 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=40 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD6190>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,037 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=41]
+2023-01-30 02:05:26,037 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,038 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=41 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD4A50>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,038 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=42]
+2023-01-30 02:05:26,038 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,039 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=42 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD6290>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,039 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=43]
+2023-01-30 02:05:26,039 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,040 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=43 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD4610>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,040 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=44]
+2023-01-30 02:05:26,041 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,041 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=44 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD5850>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,042 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=45]
+2023-01-30 02:05:26,042 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,042 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=45 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD4350>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,042 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=46]
+2023-01-30 02:05:26,043 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,043 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=46 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD7010>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,043 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=47]
+2023-01-30 02:05:26,044 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,044 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=47 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD6BD0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,044 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tehran/?p=48]
+2023-01-30 02:05:26,045 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,045 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tehran/?p=48 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD6D10>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,045 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/shiraz/?p=0]
+2023-01-30 02:05:26,046 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,046 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/shiraz/?p=0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD5550>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,046 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/shiraz/?p=1]
+2023-01-30 02:05:26,047 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,047 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/shiraz/?p=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD7910>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,047 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/isfahan/?p=0]
+2023-01-30 02:05:26,048 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,048 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/isfahan/?p=0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD5910>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,048 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/isfahan/?p=1]
+2023-01-30 02:05:26,049 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,049 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/isfahan/?p=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD5850>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,049 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/mashhad/?p=0]
+2023-01-30 02:05:26,050 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,050 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/mashhad/?p=0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD6ED0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,050 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/tabriz/?p=0]
+2023-01-30 02:05:26,051 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,052 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/tabriz/?p=0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD5690>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,052 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/kish/?p=0]
+2023-01-30 02:05:26,052 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,053 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/kish/?p=0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD7010>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,053 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/ghom/?p=0]
+2023-01-30 02:05:26,053 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,054 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/ghom/?p=0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD6350>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,054 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/arak/?p=0]
+2023-01-30 02:05:26,054 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,055 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/arak/?p=0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD5150>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,055 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/ahwaz/?p=0]
+2023-01-30 02:05:26,056 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,056 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/ahwaz/?p=0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD5250>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,056 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/ahwaz/?p=1]
+2023-01-30 02:05:26,057 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,057 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/ahwaz/?p=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD7A50>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,057 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/sabzevar/?p=0]
+2023-01-30 02:05:26,058 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,058 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/sabzevar/?p=0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD7F50>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,058 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/urmia/?p=0]
+2023-01-30 02:05:26,059 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,059 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/urmia/?p=0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD7CD0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,059 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/zanjan/?p=0]
+2023-01-30 02:05:26,060 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,060 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/zanjan/?p=0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD6990>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,060 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/qazvin/?p=0]
+2023-01-30 02:05:26,061 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,061 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/qazvin/?p=0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD5350>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,061 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/hamedan/?p=0]
+2023-01-30 02:05:26,062 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,062 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/hamedan/?p=0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD4350>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,062 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/karaj/?p=0]
+2023-01-30 02:05:26,063 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,063 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/karaj/?p=0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD5E90>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,063 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/karaj/?p=1]
+2023-01-30 02:05:26,064 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,064 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/karaj/?p=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD7490>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,064 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/karaj/?p=2]
+2023-01-30 02:05:26,065 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,065 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/karaj/?p=2 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD6510>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,066 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/kerman/?p=0]
+2023-01-30 02:05:26,066 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,067 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/kerman/?p=0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD6350>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2023-01-30 02:05:26,067 INFO: Starting to scrape the page [https://fidilio.com/coffeeshops/in/bandarabbas/?p=0]
+2023-01-30 02:05:26,067 DEBUG: Starting new HTTPS connection (1): fidilio.com:443
+2023-01-30 02:05:26,068 ERROR: Connection error occurred: HTTPSConnectionPool(host='fidilio.com', port=443): Max retries exceeded with url: /coffeeshops/in/bandarabbas/?p=0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000193BAAD7C50>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
