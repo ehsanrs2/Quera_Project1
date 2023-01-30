@@ -25,7 +25,7 @@ def extract_data(url, city):
     result['address'] = info[0].get_text().lstrip('\r\n ').rstrip('\r\n ')
     result['phone']   = info[1].get_text().lstrip('\r\n ').rstrip('\r\n ')
     try:
-        result['time'] = info[2].get_text().lstrip('\r\n ').rstrip('\r\n ').split()[3]
+        result['time'] = info[2].get_text().lstrip('\r\n ').rstrip('\r\n ').split()[4]
     except IndexError:
         result['time'] = None
 
