@@ -2,10 +2,10 @@ import requests
 from bs4 import BeautifulSoup
 import numpy as np
 import logging
-import json
+import csv
 from requests.exceptions import HTTPError, ConnectionError, Timeout, RequestException
-
-
+from time import sleep
+from random import randint
 def extract_data(url, city):
     response = requests.get(url, timeout=20)
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -49,9 +49,10 @@ def scrape(url, logger, city, number):
     
     logger.info('Starting to scrape the page [{}]'.format(url))
     results = []
+    
     try:
-        response = requests.get(url, timeout=20)
-        response.raise_for_status()
+        response = requests.get(url, timeout=10)
+        response.raise_for_status() 
     except HTTPError as http_err:
         logger.error('HTTP error occurred: {}'.format(http_err))
         return results
@@ -84,17 +85,23 @@ if __name__ == "__main__":
     logging.basicConfig(filename='fidilio.log', filemode='w', format='%(asctime)s %(levelname)s: %(message)s')
     logger = logging.getLogger()
     logger.setLevel(logging.DEBUG)
-    city = ['tehran', 'shiraz', 'isfahan', 'mashhad', 'tabriz', 'kish', 'ghom', 'arak', 'ahwaz','sabzevar', 'urmia', 'zanjan', 'qazvin', 'hamedan'
-        , 'karaj', 'kerman', 'bandarabbas' ]
+    city = ['shiraz']#, 'tehran', 'isfahan', 'mashhad', 'tabriz', 'kish', 'ghom', 'arak', 'ahwaz','sabzevar', 'urmia', 'zanjan', 'qazvin', 'hamedan'
+        #, 'karaj', 'kerman', 'bandarabbas' ]
     pages_end = [49, 2, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1]     
-
+    pages_end = [2]
     all_results = []
-
     for index, value in enumerate(city):
         for number in range(pages_end[index]):
                 url = f'https://fidilio.com/coffeeshops/in/{value}/?p={number}'
-                all_results.extend(scrape(url, logger, value, number))
-
-    # Save the results
-    with open("fidilio_coffeshops.json", "w") as file:
-        json.dump(all_results, file)
+                Coffee_list = scrape(url, logger, value, number)
+                all_results.extend(Coffee_list)
+                #sleep for random time between 2 to 5 seconds
+                time_milisec = randint(2000,5000)
+                time_sec = time_milisec / 1000
+                print("time sleep=",time_sec)
+                sleep(time_sec)
+    with open('Coffee.csv', 'w', encoding='utf-8', newline='') as f:
+        writer = csv.DictWriter(f, fieldnames=['name', 'nameEN', 'city', 'rate', 'address', 'phone', 'time', 'quality_rate', 'service_rate', 'w_to_p_ratio', 'decor_rate', 'features'])
+        writer.writeheader()
+        for co_dic in all_results:
+            writer.writerow(co_dic)
