@@ -1,16 +1,19 @@
 import pandas as pd 
 from sqlalchemy.engine import URL
 import sqlalchemy as db
-
+from sqlalchemy import create_engine
 
 url_object = URL.create(
     "mysql+mysqlconnector",
     username="root",
     password="ehsan",
     host="localhost",    
-    database="Doffeeshopdata",
+    database="coffeeshopdata",
 )
-
+# user = "user_group4"
+# db = "group4"
+# password = "5)kUA%nuwVZ9&rCV"
+# engine = create_engine(f"mysql+mysqlconnector://{user}:{password}@{host}/{db}")
 engine = db.create_engine(url_object)
 conn = engine.connect()
 
