@@ -10,10 +10,7 @@ url_object = URL.create(
     host="localhost",    
     database="coffeeshopdata",
 )
-# user = "user_group4"
-# db = "group4"
-# password = "5)kUA%nuwVZ9&rCV"
-# engine = create_engine(f"mysql+mysqlconnector://{user}:{password}@{host}/{db}")
+
 engine = db.create_engine(url_object)
 conn = engine.connect()
 
