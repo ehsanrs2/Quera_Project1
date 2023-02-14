@@ -7,7 +7,7 @@ In this project we are about to crawl fidilio.ir to extract coffeeshops data. th
         |    ├── Coffee.csv
         |    ├── Coffee_Clean.csv
         |    ├── fidilio.log
-        |    └─  fidilio.csv
+        |    └─  fidilio.py
         |    
         ├── database 
         |    ├── img
@@ -19,6 +19,8 @@ In this project we are about to crawl fidilio.ir to extract coffeeshops data. th
         |   ├── Interface_of_Dashboard.py
         |   ├── report.pbix
         |   └── report.pdf
+        |
+        ├── requirements.txt
         └── README.md # Explanation of project structure, tools used, and instructions for executing each part of the project.
 
 ### Dashboard first page:
