@@ -1,5 +1,5 @@
 # Data Analysis Project - CoffeeShops
-## Quera Team - group 4 - Proeject 1
+## Quera Team - group 4 - Project 1
 In this project we are about to crawl fidilio.ir to extract coffeeshops data. then we are going to clean the data and implement it to a dedicate database. and finally doing some analysis and visualze them in microsot Power BI.
 
     Root.
