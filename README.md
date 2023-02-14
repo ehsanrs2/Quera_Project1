@@ -7,7 +7,7 @@ In this project we are about to crawl fidilio.ir to extract coffeeshops data. th
         |    ├── Coffee.csv
         |    ├── Coffee_Clean.csv
         |    ├── fidilio.log
-        |    └─  fidilio.csv
+        |    └─  fidilio.py
         |    
         ├── database 
         |    ├── img
