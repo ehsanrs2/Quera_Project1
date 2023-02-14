@@ -22,6 +22,6 @@ In this project we are about to crawl fidilio.ir to extract coffeeshops data. th
         |
         ├── requirements.txt
         └── README.md # Explanation of project structure, tools used, and instructions for executing each part of the project.
-
+___
 ### Dashboard first page:
 ![Screenshot](dashboard/img/dashboard_view.png)
