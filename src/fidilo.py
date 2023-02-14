@@ -6,10 +6,14 @@ import csv
 from requests.exceptions import HTTPError, ConnectionError, Timeout, RequestException
 from time import sleep
 from random import randint
+
 def extract_data(url, city):
+    
     response = requests.get(url, timeout=20)
     soup = BeautifulSoup(response.text, 'html.parser')
     result = {}
+    
+    # crawling name
     try:
         result['name'] = soup.select('.venue-name-box h1')[0].get_text().lstrip(' ').rstrip(' ')
     except IndexError:
@@ -17,6 +21,7 @@ def extract_data(url, city):
     result['nameEN'] = url.split('/')[3]
     result['city'] = city
     
+    # crwaling coffeeshop total score
     try:
         result['rate'] = soup.select('.rate span')[0].get_text().lstrip(' ').rstrip(' ')
     except IndexError:
@@ -29,13 +34,14 @@ def extract_data(url, city):
     except IndexError:
         result['time'] = None
 
+    # crawling different scores
     rate = soup.select('.rates-list li span div')
     result['quality_rate'] = rate[0].get('data-rateit-value')
     result['service_rate'] = rate[1].get('data-rateit-value')
     result['w_to_p_ratio'] = rate[2].get('data-rateit-value')
     result['decor_rate']   = rate[3].get('data-rateit-value')
     
-    # Features
+    # crawling Features (options)
     features = soup.select('.venue-features-box span')
     features_list = []
     for index in range(len(features)):
@@ -67,10 +73,13 @@ def scrape(url, logger, city, number):
         return results
     
     print(f'response = {response.status_code}  city = {city}   page = {number}')
-    soup = BeautifulSoup(response.text, 'html.parser')
-    new_links = soup.select('.restaurant-list-container div a')
     
+    soup = BeautifulSoup(response.text, 'html.parser') # coffeeshps lists html page
+    new_links = soup.select('.restaurant-list-container div a') #save every coffeshop url
+    
+    # loop throught coffeeshops url and extract data
     for i in range(len(new_links)):
+        
         try:
             new_url = new_links[i].get('href')
             results.append(extract_data(f'https://fidilio.com{new_url}', city))
@@ -80,15 +89,20 @@ def scrape(url, logger, city, number):
 
     return results
 
+
 if __name__ == "__main__":
+    
     # Set up logging
     logging.basicConfig(filename='fidilio.log', filemode='w', format='%(asctime)s %(levelname)s: %(message)s')
     logger = logging.getLogger()
     logger.setLevel(logging.DEBUG)
-    city = ['shiraz']#, 'tehran', 'isfahan', 'mashhad', 'tabriz', 'kish', 'ghom', 'arak', 'ahwaz','sabzevar', 'urmia', 'zanjan', 'qazvin', 'hamedan'
-        #, 'karaj', 'kerman', 'bandarabbas' ]
+    
+    city = ['shiraz', 'tehran', 'isfahan', 'mashhad', 'tabriz', 'kish', 'ghom', 'arak', 'ahwaz','sabzevar', 'urmia', 'zanjan', 'qazvin', 'hamedan'
+            ,'karaj', 'kerman', 'bandarabbas' ]
     pages_end = [49, 2, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1]     
     pages_end = [2]
+    
+    # starting to scrape in cities and pages
     all_results = []
     for index, value in enumerate(city):
         for number in range(pages_end[index]):
@@ -100,6 +114,8 @@ if __name__ == "__main__":
                 time_sec = time_milisec / 1000
                 print("time sleep=",time_sec)
                 sleep(time_sec)
+    
+    # save data in csv file
     with open('Coffee.csv', 'w', encoding='utf-8', newline='') as f:
         writer = csv.DictWriter(f, fieldnames=['name', 'nameEN', 'city', 'rate', 'address', 'phone', 'time', 'quality_rate', 'service_rate', 'w_to_p_ratio', 'decor_rate', 'features'])
         writer.writeheader()
