@@ -1,5 +1,5 @@
 # Coffee_shop_Quera_Project1
-هدف این پروژه استخراج داده‌هایی از کافی‌شاپ‌های سراسر کشور و تحلیل آن‌ هاست
+In this project we are about to crawl fidilio.ir to extract coffeeshops data. then we are going to clean the data and implent it to a dedicate database. and finally doing some analysis and visualze them in microsot Power BI.
 
     Root.
         ├── src     # Source files Scripts for web scraping using tools like BeautifulSoup, Selenium, etc.
