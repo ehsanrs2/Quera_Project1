@@ -1,6 +1,6 @@
 # Data Analysis Project - CoffeeShops
 ## Quera Team - group 4 - Project 1
-In this project we are about to crawl fidilio.com to extract coffeeshops data. then we are going to clean the data and implement it to a dedicate database. and finally doing some analysis and visualze them in Microsot Power BI.
+In this project, we are about to crawl fidilio.com to extract coffeeshops data. then we are going to clean the data and implement it in a dedicated database. and finally, do some analysis and visualize them in Microsoft Power BI.
 
     Root.
         ├── src     # Source files Scripts for web scraping using tools like BeautifulSoup, requests, logging, and etc.
