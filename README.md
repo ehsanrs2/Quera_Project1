@@ -21,6 +21,9 @@ The next step is to implement the data into a database. This involves creating a
 The final step is to visualize the data using the Power BI platform. Power BI is a powerful data visualization tool that can be used to create interactive dashboards, reports, and charts. The data can be connected directly to Power BI or exported from the database in a format that can be easily imported.
 
 By following these steps, you can create a successful data analysis project for GitHub. Good luck!
+=======
+## Quera Team - group 4 - Project 1
+In this project, we are about to crawl fidilio.com to extract coffeeshops data. then we are going to clean the data and implement it in a dedicated database. and finally, do some analysis and visualize them in Microsoft Power BI.
 
     Root.
         ├── src     # Source files Scripts for web scraping using tools like BeautifulSoup, requests, logging, and etc.
