@@ -1,5 +1,6 @@
 # Data Analysis Project - CoffeeShops
 
+
 In this project, we will be conducting a data analysis for coffeeshops. The data will be collected from fidilo.ir, including point of sale systems, customer feedback, and other relevant data sources. The main objective of this project is to gain insights into the coffee shop's operations and identify areas for improvement.
 
 The analysis will cover various aspects of the coffee shop's operations including sales, customer behavior, and marketing effectiveness. We will also be analyzing customer feedback to gain insights into their preferences and identify areas for improvement in terms of product offerings, customer service, and overall customer experience.
